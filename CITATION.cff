@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: Salim
+    family-names: Fares
+    email: salim.fares@protonmail.com
+    affiliation: Universität Passau
+    orcid: 'https://orcid\.org/0000-0002-6815-2145'
+title: "Hate-Speech-Detection"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-12-26
+url: "https://github.com/SalimFares4/Hate-Speech-Detection"
