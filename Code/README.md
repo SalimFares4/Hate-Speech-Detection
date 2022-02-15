@@ -11,13 +11,6 @@ However if you want to use the same methods you should have these libraries alre
 * string
 * tashaphyne.
 
-# Statistical Methods using the Lexicon
-This file contains a simple classification and statistical analysis using the lexicon.
-To run this file you should have these libraries already installed:
-* pandas
-* nltk
-* matplotlib.
-
 # Classification Models
 
 This file contains the implementation to three different classification algorithms:
@@ -30,14 +23,7 @@ To run this file you should have these libraries already installed:
 * re
 * string
 
-# Word Embedding
-This file contains the implementation to Word Embedding model. We used a pre-trained model
-and we trained our own model.
-To run this file you should have these libraries already installed:
-* numpy
-* gensim
-* pandas
-* sklear
-* keras 
-* You should also download the pre-trained model AraVec V2.0 tweets_cbow_300 link for downloading [here](https://archive.org/download/aravec2.0/tweet_cbow_300.zip)
-* [Link for the whole AraVec Project](https://github.com/bakrianoo/aravec)
+# AraBert
+This file contains the implementation to Word Embedding model. We used a pre-trained model.  
+The file contains all the required information to be excuted.
+* [Link for the whole AraBert Project](https://github.com/aub-mind/arabert)
