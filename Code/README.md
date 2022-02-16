@@ -1,7 +1,7 @@
+# P.S To excute these file, either change the files path or put all the files and the dataset in the same folder.  
+
 # Data Pre-Processing
-P.S To excute these file, either change the files path or put all the files and the dataset in the same folder.  
-  
-  
+    
 This file contains normalization, cleaning functions we used to pre-process our data
 you do not need to run this file we have already excuted it and appended the results 
 to the data file in a seperated column called "clean". You can simply load the data
@@ -29,3 +29,5 @@ To run this file you should have these libraries already installed:
 This file contains the implementation to Word Embedding model. We used a pre-trained model.  
 The file contains all the required information to be excuted.
 * [Link for the whole AraBert Project](https://github.com/aub-mind/arabert)
+
+
