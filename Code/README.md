@@ -1,4 +1,4 @@
-# P.S To excute these file, either change the files path or put all the files and the dataset in the same folder.  
+# P.S To excute these files, either change the files path or put all the files and the dataset in the same folder.  
 
 # Data Pre-Processing
     
