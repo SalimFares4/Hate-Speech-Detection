@@ -1,0 +1,1908 @@
+,index,id,pos,category,stereotype,lemma,level,clean,stem
+0,0,AR340,n,pr,no,امرأة من الشارع,conservative,امراه الشارع,مره شرع
+1,1,AR374,n,cds,no,على راسه ريشه,inclusive,راسه ريشه,رسه ريش
+2,2,AR1048,n,cds,no,ديماجوجي,conservative,ديماجوجي,ديماجوجي
+3,3,AR70,n,om,no,لواطة,inclusive,لواطه,لطه
+4,4,AR2743,n,dmc,yes,تشرد,inclusive,تشرد,شرد
+5,5,AR1322,n,qas,no,فلاح,inclusive,فلاح,فلح
+6,6,AR2310,n,an,no,دُودَة,inclusive,دوده,دود
+7,7,AR36,n,pa,yes,عامل,inclusive,عامل,عمل
+8,8,AR523,n,pr,no,ثيران,inclusive,ثيران,ثير
+9,9,AR1210,n,ddf,yes,قزم,conservative,قزم,قزم
+10,10,AR522,n,an,no,ماشية,inclusive,ماشيه,اشه
+11,11,AR128,n,ddp,yes,امية,inclusive,اميه,امه
+12,12,AR2594,n,an,no,إبن أوى,inclusive,ابن اوي,ابن اوي
+13,13,AR164,n,an,no,بعديات,inclusive,بعديات,بعد
+14,14,AR2656,a,svp,no,متعالي,conservative,متعالي,تعل
+15,15,AR2344,n,or,no,بطاطا,inclusive,بطاطا,بطط
+16,16,AR357,n,dmc,yes,زيف,inclusive,زيف,زيف
+17,17,AR1126,n,dmc,yes,منافق,conservative,منافق,نفق
+18,18,AR1922,n,ps,yes,قوط,inclusive,قوط,قوط
+19,19,AR359,n,cds,no,كذب,conservative,كذب,كذب
+20,20,AR1131,n,dmc,yes,رياء,conservative,رياء,ريء
+21,21,AR522,n,pr,no,ماشية,inclusive,ماشيه,اشه
+22,22,AR195,n,cds,no,غبي,inclusive,غبي,غبي
+23,23,AR1958,n,qas,no,طفيليّات,inclusive,طفيليات,طفل
+24,24,AR2123,n,pa,yes,راعي,inclusive,راعي,رعي
+25,25,AR418,n,dmc,yes,جاني,inclusive,جاني,جني
+26,26,AR2503,n,re,no,لصوص,inclusive,لصوص,لصص
+27,27,AR418,n,cds,no,جاني,conservative,جاني,جني
+28,28,AR1267,n,dmc,yes,شر,inclusive,شر,شر
+29,29,AR359,n,qas,no,كذب,conservative,كذب,كذب
+30,30,AR99,n,qas,no,فضلات,inclusive,فضلات,فضل
+31,31,AR394,n,pa,yes,خادم,inclusive,خادم,خدم
+32,32,AR2537,n,an,no,علجوم,inclusive,علجوم,علجوم
+33,33,AR245,n,cds,no,مبغى,inclusive,مبغي,بغي
+34,34,AR1636,n,cds,no,غطرسة,inclusive,غطرسه,غطرس
+35,35,AR501,n,qas,no,متردد,conservative,مترد,ترد
+36,36,AR518,n,pr,no,أبقار,inclusive,ابقار,بقر
+37,37,AR2764,n,an,no,أفاعي,inclusive,افاعي,فعي
+38,38,AR1066,n,pa,yes,متودد,inclusive,متود,تود
+39,39,AR275,n,ps,yes,برابرة,conservative,برابره,ربر
+40,40,AR611,n,svp,no,استعلاء,conservative,استعلاء,علء
+41,41,AR1798,n,ddp,yes,تخلف,inclusive,تخلف,خلف
+42,42,AR730,n,qas,no,رعاع,conservative,رعاع,رعع
+43,43,AR233,n,svp,no,جشع,inclusive,جشع,جشع
+44,44,AR1372,n,dmc,yes,أحمق,inclusive,احمق,حمق
+45,45,AR195,n,an,no,غبي,conservative,غبي,غبي
+46,46,AR2070,n,an,no,مكروبات,inclusive,مكروبات,كرب
+47,47,AR524,n,pr,no,مواشي,inclusive,مواشي,وشي
+48,48,AR983,n,an,no,تمساحيات,inclusive,تمساحيات,ساح
+49,49,AR358,n,cds,no,باطل,inclusive,باطل,بطل
+50,50,AR703,n,re,no,تشهير,inclusive,تشهير,شهر
+51,51,AR272,n,ddp,yes,برابرة,conservative,برابره,ربر
+52,52,AR329,n,ps,yes,مرقس,conservative,مرقس,رقس
+53,53,AR2557,n,cds,no,متعالم,conservative,متعالم,عالم
+54,54,AR502,n,qas,no,متخبط,conservative,متخبط,تخبط
+55,55,AR445,n,qas,no,قطب,inclusive,قطب,قطب
+56,56,AR239,n,svp,no,بخل,inclusive,بخل,بخل
+57,57,AR692,n,cds,no,قميء,inclusive,قميء,قمء
+58,58,AR1013,n,asf,no,كس,conservative,كس,كس
+59,59,AR484,n,cds,no,يخطئ,inclusive,يخطء,خطء
+60,60,AR806,n,qas,no,عوام,inclusive,عوام,عوم
+61,61,AR1891,n,cds,no,نيرد,conservative,نيرد,يرد
+62,62,AR2315,v,qas,no,خرب,conservative,خرب,خرب
+63,63,AR1349,n,pa,yes,بائعة سمك,inclusive,باءعه سمك,بءع سمك
+64,64,AR2727,n,an,no,خدع,conservative,خدع,خدع
+65,65,AR656,n,ddp,yes,عان,inclusive,عان,عان
+66,66,AR731,n,ddp,yes,عامة,conservative,عامه,عمه
+67,67,AR156,n,ddp,yes,حيوان,inclusive,حيوان,حيو
+68,68,AR1317,n,qas,no,فلاحون,inclusive,فلاحون,فلح
+69,69,AR684,n,dmc,yes,منبوذون,inclusive,منبوذون,نبذ
+70,70,AR1071,n,cds,no,خارج عن القانون,inclusive,خارج القانون,خرج قان
+71,71,AR2496,n,re,no,اختطف,inclusive,اختطف,خطف
+72,72,AR877,n,pa,yes,عريف,inclusive,عريف,عرف
+73,73,AR1858,n,an,no,بعوضيات,inclusive,بعوضيات,بعض
+74,74,AR2100,n,ddp,yes,غباء,inclusive,غباء,غبء
+75,75,AR1784,n,svp,no,تحجر,conservative,تحجر,حجر
+76,76,AR593,n,cds,no,أنانية,inclusive,انانيه,نني
+77,77,AR1227,n,asm,no,فالوس,inclusive,فالوس,فلس
+78,78,AR78,n,ddp,yes,شرج,conservative,شرج,شرج
+79,79,AR2354,n,or,no,بطاطا,inclusive,بطاطا,بطط
+80,80,AR53,n,ddp,yes,تخلف عقلي,inclusive,تخلف عقلي,خلف عقل
+81,81,AR195,n,asm,no,غبي,conservative,غبي,غبي
+82,82,AR480,n,qas,no,تخبط,inclusive,تخبط,خبط
+83,83,AR2373,v,an,no,غضب,conservative,غضب,غضب
+84,84,AR1315,n,qas,no,مزارع,inclusive,مزارع,زرع
+85,85,AR607,n,cds,no,تعالي,conservative,تعالي,علي
+86,86,AR274,n,ps,yes,غليظ,conservative,غليظ,غلظ
+87,87,AR2125,n,pa,yes,راعي,inclusive,راعي,رعي
+88,88,AR2742,n,pa,yes,سكاف,inclusive,سكاف,سكف
+89,89,AR242,n,ddp,yes,تخلف,inclusive,تخلف,خلف
+90,90,AR1758,n,cds,no,مراب,inclusive,مراب,راب
+91,91,AR2570,n,an,no,صرصار,inclusive,صرصار,صرصار
+92,92,AR1193,n,dmc,yes,جانح,conservative,جانح,جنح
+93,93,AR720,n,dmc,yes,سارق,conservative,سارق,سرق
+94,94,AR2565,n,an,no,علقيات,inclusive,علقيات,علق
+95,95,AR1699,n,ddp,yes,جهل,conservative,جهل,جهل
+96,96,AR491,n,cds,no,كريهة,inclusive,كريهه,كره
+97,97,AR2406,n,an,no,قمليات,inclusive,قمليات,قمل
+98,98,AR2183,n,ps,yes,سوداء,inclusive,سوداء,ودء
+99,99,AR554,n,qas,no,فلاحين,inclusive,فلاحين,فلح
+100,100,AR1184,n,svp,no,أكول,inclusive,اكول,اكل
+101,101,AR2267,n,cds,no,ربا,conservative,ربا,ربا
+102,102,AR2745,n,cds,no,فساد,conservative,فساد,فسد
+103,103,AR1221,n,pa,yes,أجير,inclusive,اجير,اجر
+104,104,AR789,n,an,no,عامية,conservative,عاميه,عمي
+105,105,AR597,n,cds,no,تمادي,conservative,تمادي,مدي
+106,106,AR1423,n,cds,no,فاشستية,conservative,فاشستيه,فشس
+107,107,AR731,n,an,no,عامة,conservative,عامه,عمه
+108,108,AR1479,n,cds,no,رجعيه,conservative,رجعيه,رجع
+109,109,AR1046,n,dmc,yes,غش,conservative,غش,غش
+110,110,AR354,n,an,no,مومس,conservative,مومس,ومس
+111,111,AR678,n,cds,no,جيف,inclusive,جيف,جيف
+112,112,AR728,n,ddp,yes,أوباش,conservative,اوباش,وبش
+113,113,AR729,n,cds,no,عوام,conservative,عوام,عوم
+114,114,AR1095,n,cds,no,جرائم,inclusive,جراءم,جرءم
+115,115,AR195,n,asf,no,غبي,conservative,غبي,غبي
+116,116,AR1420,n,cds,no,فاشي,conservative,فاشي,فشي
+117,117,AR384,n,ps,yes,بدوية,inclusive,بدويه,بدي
+118,118,AR919,n,dmc,yes,محتال,conservative,محتال,حتل
+119,119,AR329,n,an,no,مرقس,conservative,مرقس,رقس
+120,120,AR1646,n,an,no,ضباع,inclusive,ضباع,ضبع
+121,121,AR1616,n,dmc,yes,متشرد,inclusive,متشرد,تشرد
+122,122,AR430,n,cds,no,مفشي السر,conservative,مفشي السر,فشي لسر
+123,123,AR462,n,ddp,yes,ابن زنا,conservative,ابن زنا,ابن زنا
+124,124,AR1797,n,ddp,yes,نقص العقلية,inclusive,نقص العقليه,نقص عقل
+125,125,AR362,n,cds,no,زور,conservative,زور,زور
+126,126,AR1679,n,ddp,yes,لغو,conservative,لغو,لغو
+127,127,AR1865,n,an,no,ناموس,inclusive,ناموس,نمس
+128,128,AR1904,n,cds,no,دركي,inclusive,دركي,درك
+129,129,AR1873,n,pr,no,عثه,inclusive,عثه,عثه
+130,130,AR2539,n,an,no,ضفادع,inclusive,ضفادع,ضفدع
+131,131,AR275,n,pa,yes,برابرة,conservative,برابره,ربر
+132,132,AR728,n,cds,no,أوباش,conservative,اوباش,وبش
+133,133,AR239,n,svp,no,بخل,conservative,بخل,بخل
+134,134,AR637,n,an,no,وغد,conservative,وغد,وغد
+135,135,AR1183,n,svp,no,شره,inclusive,شره,شره
+136,136,AR1276,n,dmc,yes,زنديق,conservative,زنديق,زنديق
+137,137,AR1461,n,cds,no,حشري,conservative,حشري,حشر
+138,138,AR1944,n,dmc,yes,شخص ريفى أخرق,conservative,شخص ريفي اخرق,شخص ريف خرق
+139,139,AR695,n,cds,no,مأفون,inclusive,مافون,ماف
+140,140,AR517,n,svp,no,مملة,inclusive,مله,مله
+141,141,AR795,n,asm,no,أير,inclusive,اير,اير
+142,142,AR2151,n,re,no,سراق,inclusive,سراق,سرق
+143,143,AR1836,n,an,no,رخويات,inclusive,رخويات,رخي
+144,144,AR87,n,qas,no,تابع,inclusive,تابع,تبع
+145,145,AR2230,n,an,no,قرادة,inclusive,قراده,قرد
+146,146,AR2528,a,dmc,yes,كاذبة,conservative,كاذبه,كذب
+147,147,AR2666,n,re,no,عميلة ارهابية,conservative,عميله ارهابيه,عمل رهب
+148,148,AR2616,a,ddp,yes,أحمق,conservative,احمق,حمق
+149,149,AR402,n,an,no,عنيد,conservative,عنيد,عند
+150,150,AR917,n,ddp,yes,نصاب,conservative,نصاب,نصب
+151,151,AR720,n,cds,no,سارق,conservative,سارق,سرق
+152,152,AR2222,n,re,no,إرهابية,inclusive,ارهابيه,رهب
+153,153,AR309,n,an,no,خسيس,inclusive,خسيس,خسس
+154,154,AR432,n,cds,no,واش,conservative,واش,واش
+155,155,AR721,n,re,no,مشعوذ,inclusive,مشعوذ,شعذ
+156,156,AR2091,n,an,no,خروف,inclusive,خروف,خرف
+157,157,AR1854,n,ps,yes,منغولية,inclusive,منغوليه,نغل
+158,158,AR1425,n,cds,no,فاشيه,conservative,فاشيه,فشي
+159,159,AR2385,n,is,yes,متسول,inclusive,متسول,تسل
+160,160,AR688,n,an,no,خروء,conservative,خروء,خرء
+161,161,AR1833,n,cds,no,متهرب,conservative,متهرب,تهرب
+162,162,AR2609,n,cds,no,عِلْمانية,inclusive,علمانيه,علم
+163,163,AR725,n,cds,no,وقح,conservative,وقح,وقح
+164,164,AR1205,n,dmc,yes,شخص غير مستقر,inclusive,شخص مستقر,شخص سقر
+165,165,AR1482,n,cds,no,رجعي,conservative,رجعي,رجع
+166,166,AR1758,n,cds,no,مراب,conservative,مراب,راب
+167,167,AR1870,n,pr,no,عث,inclusive,عث,عث
+168,168,AR1883,n,an,no,متبلد المشاعر,conservative,متبلد المشاعر,تبلد شعر
+169,169,AR527,n,an,no,ماشية,inclusive,ماشيه,اشه
+170,170,AR2157,n,cds,no,نرجسية,inclusive,نرجسيه,رجس
+171,171,AR1979,a,dmc,yes,شرير,conservative,شرير,شرر
+172,172,AR1213,n,an,no,حلزون pomatia,inclusive,حلزون,حلز
+173,173,AR1369,n,cds,no,احمق,inclusive,احمق,حمق
+174,174,AR2275,n,ps,yes,ندل,inclusive,ندل,ندل
+175,175,AR927,n,qas,no,قمامة,inclusive,قمامه,قمم
+176,176,AR1078,n,ps,yes,أبله,conservative,ابله,ابل
+177,177,AR462,n,cds,no,ابن زنا,conservative,ابن زنا,ابن زنا
+178,178,AR1572,n,om,no,مثليه جنسيه,inclusive,مثليه جنسيه,ثله جنس
+179,179,AR1264,n,dmc,yes,شر,conservative,شر,شر
+180,180,AR2287,n,ps,yes,اندال,inclusive,اندال,دال
+181,181,AR1354,n,dmc,yes,تزوير,inclusive,تزوير,زور
+182,182,AR868,n,an,no,أرنب,inclusive,ارنب,رنب
+183,183,AR78,n,om,no,شرج,inclusive,شرج,شرج
+184,184,AR1443,n,asf,no,مهبل,conservative,مهبل,هبل
+185,185,AR1990,n,asm,no,جلبانة,inclusive,جلبانه,جلب
+186,186,AR2099,n,ddp,yes,غباوه,conservative,غباوه,غبو
+187,187,AR263,n,qas,no,خصية,inclusive,خصيه,خصه
+188,188,AR1359,n,an,no,برغوت,inclusive,برغوت,رغو
+189,189,AR2003,n,pa,yes,عتال,inclusive,عتال,عتل
+190,190,AR1157,n,om,no,قمي,inclusive,قمي,قمي
+191,191,AR657,n,ddp,yes,حبيس,inclusive,حبيس,حبس
+192,192,AR1323,n,qas,no,فلاحين,inclusive,فلاحين,فلح
+193,193,AR1309,n,pr,no,خليلة,conservative,خليله,خلل
+194,194,AR419,n,re,no,مجرم,inclusive,مجرم,جرم
+195,195,AR610,n,svp,no,غرور,conservative,غرور,غرر
+196,196,AR1,n,dmc,yes,دناءة,inclusive,دناءه,دنء
+197,197,AR1357,n,an,no,برغوثيات,inclusive,برغوثيات,رغث
+198,198,AR171,n,an,no,حیوانات,inclusive,حیوانات,حیو
+199,199,AR889,n,om,no,شاذّ جِنسِيًا,inclusive,شاذ جنسيا,شاذ جنس
+200,200,AR1804,n,cds,no,لص,inclusive,لص,لص
+201,201,AR1748,n,cds,no,كسول,conservative,كسول,كسل
+202,202,AR726,n,qas,no,دهماء,conservative,دهماء,دهماء
+203,203,AR528,n,pr,no,بقره,inclusive,بقره,بقر
+204,204,AR1940,n,qas,no,طفيلي,inclusive,طفيلي,طفل
+205,205,AR2305,n,dmc,yes,مهرجين,inclusive,مهرجين,هرج
+206,206,AR121,n,cds,no,تعصب,conservative,تعصب,عصب
+207,207,AR2608,n,cds,no,عِلْمَانية,inclusive,علمانيه,علم
+208,208,AR1843,n,an,no,رخوي,inclusive,رخوي,رخي
+209,209,AR329,n,asm,no,مرقس,conservative,مرقس,رقس
+210,210,AR1607,n,cds,no,قطيع,inclusive,قطيع,قطع
+211,211,AR2529,a,dmc,yes,مزور,conservative,مزور,زور
+212,212,AR2763,n,an,no,أفعوانية,inclusive,افعوانيه,افعوانيه
+213,213,AR2174,n,ps,yes,زنجاني,inclusive,زنجاني,زنج
+214,214,AR272,n,dmc,yes,برابرة,conservative,برابره,ربر
+215,215,AR2391,n,cds,no,متذمر,conservative,متذمر,تذمر
+216,216,AR560,n,qas,no,رأسمالي,inclusive,راسمالي,راسمال
+217,217,AR710,n,re,no,خبيثة,inclusive,خبيثه,خبث
+218,218,AR1236,n,an,no,حلزون,inclusive,حلزون,حلز
+219,219,AR309,n,an,no,خسيس,conservative,خسيس,خسس
+220,220,AR1481,n,cds,no,رجعية,conservative,رجعيه,رجع
+221,221,AR1706,n,cds,no,فخامة,conservative,فخامه,فخم
+222,222,AR401,n,dmc,yes,متعصب,conservative,متعصب,تعصب
+223,223,AR274,n,ddp,yes,غليظ,conservative,غليظ,غلظ
+224,224,AR919,n,cds,no,محتال,conservative,محتال,حتل
+225,225,AR19,n,re,no,تعسف,inclusive,تعسف,عسف
+226,226,AR693,n,asf,no,عته,conservative,عته,عته
+227,227,AR1835,n,an,no,رخويات,inclusive,رخويات,رخي
+228,228,AR2511,n,re,no,مختطف,inclusive,مختطف,خطف
+229,229,AR919,n,ddp,yes,محتال,conservative,محتال,حتل
+230,230,AR1272,n,dmc,yes,فاسق,conservative,فاسق,فسق
+231,231,AR1371,n,dmc,yes,مهرج,inclusive,مهرج,هرج
+232,232,AR2455,n,cds,no,طفل,inclusive,طفل,طفل
+233,233,AR590,n,cds,no,انانية,conservative,انانيه,نني
+234,234,AR711,n,re,no,افتراء كيدي,inclusive,افتراء كيدي,فرء كيد
+235,235,AR2103,n,asm,no,غباء,conservative,غباء,غبء
+236,236,AR570,n,om,no,فتى,inclusive,فتي,فتي
+237,237,AR1763,n,an,no,حشرات,inclusive,حشرات,حشر
+238,238,AR1398,n,cds,no,أصوليين,inclusive,اصولين,اصل
+239,239,AR1413,n,svp,no,كآبة,conservative,كابه,كبه
+240,240,AR878,n,pa,yes,جسدي,inclusive,جسدي,جسد
+241,241,AR1407,n,svp,no,غيظ,inclusive,غيظ,غيظ
+242,242,AR2534,n,an,no,ضفدع,inclusive,ضفدع,ضفدع
+243,243,AR474,n,an,no,ديوث,conservative,ديوث,ديث
+244,244,AR2670,n,re,no,إرهاب,inclusive,ارهاب,رهب
+245,245,AR631,n,cds,no,غوغاء,conservative,غوغاء,غوغاء
+246,246,AR220,n,an,no,حمير,inclusive,حمير,حمر
+247,247,AR869,n,an,no,أرانب,inclusive,ارانب,رنب
+248,248,AR1186,n,an,no,غنمية,inclusive,غنميه,غنم
+249,249,AR154,n,an,no,بهيمة,inclusive,بهيمه,بهم
+250,250,AR203,n,ps,yes,معتوه,conservative,معتوه,عته
+251,251,AR1152,n,om,no,ذيلية,inclusive,ذيليه,ذيل
+252,252,AR559,n,qas,no,برجوازي,inclusive,برجوازي,رجواز
+253,253,AR1686,n,is,yes,معوزين,inclusive,معوزين,عوز
+254,254,AR726,n,cds,no,دهماء,conservative,دهماء,دهماء
+255,255,AR1960,n,qas,no,طفيلية,inclusive,طفيليه,طفل
+256,256,AR416,n,cds,no,حرباية,conservative,حربايه,حرب
+257,257,AR741,n,an,no,شخص سيء,conservative,شخص سيء,شخص سيء
+258,258,AR197,n,an,no,أحمق,conservative,احمق,حمق
+259,259,AR2476,a,re,no,عنيف,conservative,عنيف,عنف
+260,260,AR241,n,svp,no,جشع,inclusive,جشع,جشع
+261,261,AR662,n,ddp,yes,نزيل,inclusive,نزيل,نزل
+262,262,AR2266,n,dmc,yes,يؤسف له,inclusive,يءسف,ءسف
+263,263,AR454,n,cds,no,متخلف,conservative,متخلف,تخلف
+264,264,AR694,n,cds,no,أغبياء,inclusive,اغبياء,غبياء
+265,265,AR2026,n,qas,no,بلهاء,inclusive,بلهاء,لهء
+266,266,AR2589,n,an,no,ابن أوى,inclusive,ابن اوي,ابن اوي
+267,267,AR1419,n,cds,no,عصابات,inclusive,عصابات,عصب
+268,268,AR1388,n,cds,no,ماسونيه,inclusive,ماسونيه,اسن
+269,269,AR923,n,ddp,yes,مشعوذ,conservative,مشعوذ,شعذ
+270,270,AR2361,v,asm,no,هزئ,conservative,هزء,هزء
+271,271,AR235,n,svp,no,بخل,conservative,بخل,بخل
+272,272,AR1391,n,an,no,عبوس,inclusive,عبوس,عبس
+273,273,AR604,n,svp,no,تفاخر,conservative,تفاخر,فخر
+274,274,AR1590,n,ps,yes,يهوديه,inclusive,يهوديه,يهد
+275,275,AR2772,n,dmc,yes,جاحد,conservative,جاحد,جحد
+276,276,AR1301,n,cds,no,قوادة,inclusive,قواده,قده
+277,277,AR453,n,an,no,جلف,conservative,جلف,جلف
+278,278,AR491,n,qas,no,كريهة,inclusive,كريهه,كره
+279,279,AR393,n,dmc,yes,كذاب,inclusive,كذاب,كذب
+280,280,AR1088,n,cds,no,جريمة,inclusive,جريمه,جرم
+281,281,AR764,n,cds,no,قبيله,inclusive,قبيله,قبل
+282,282,AR691,n,asm,no,أبله,conservative,ابله,ابل
+283,283,AR1747,n,svp,no,متواني,conservative,متواني,توا
+284,284,AR936,n,an,no,بق الفراش,inclusive,بق الفراش,بق فرش
+285,285,AR277,n,ddp,yes,متوحش,conservative,متوحش,توحش
+286,286,AR521,n,an,no,ابقار,inclusive,ابقار,بقر
+287,287,AR1288,n,cds,no,ذنابة,inclusive,ذنابه,ذنب
+288,288,AR253,n,qas,no,خصيتين,inclusive,خصيتين,خصي
+289,289,AR137,n,an,no,أنقليسية,inclusive,انقليسيه,انقليسيه
+290,290,AR2585,n,an,no,إبن آوى,inclusive,ابن اوي,ابن اوي
+291,291,AR603,n,svp,no,خيلاء,conservative,خيلاء,خيلاء
+292,292,AR381,n,ps,yes,بدوية,inclusive,بدويه,بدي
+293,293,AR2513,n,cds,no,متذلل,conservative,متذل,تذل
+294,294,AR274,n,cds,no,غليظ,conservative,غليظ,غلظ
+295,295,AR197,n,or,no,أحمق,conservative,احمق,حمق
+296,296,AR273,n,ps,yes,همجي,conservative,همجي,همج
+297,297,AR1942,n,cds,no,ريفي,conservative,ريفي,ريف
+298,298,AR1295,n,cds,no,تزمت,conservative,تزمت,تزم
+299,299,AR581,n,qas,no,برجوازيون,inclusive,برجوازيون,رجواز
+300,300,AR1920,n,ps,yes,قوط شرقيون,inclusive,قوط شرقيون,قوط شرق
+301,301,AR705,n,re,no,تشهيرية,inclusive,تشهيريه,شهر
+302,302,AR79,n,svp,no,كسل,conservative,كسل,كسل
+303,303,AR1297,n,svp,no,تعصب,conservative,تعصب,عصب
+304,304,AR1904,n,cds,no,دركي,conservative,دركي,درك
+305,305,AR2775,n,dmc,yes,مارق,conservative,مارق,ارق
+306,306,AR1533,n,pr,no,عاهرات,inclusive,عاهرات,عهر
+307,307,AR433,n,cds,no,احتيال,conservative,احتيال,حيل
+308,308,AR1080,n,ps,yes,أهبل,conservative,اهبل,هبل
+309,309,AR1753,a,is,yes,مؤسف,inclusive,مءسف,ءسف
+310,310,AR2116,n,asm,no,غبيون,conservative,غبيون,غبي
+311,311,AR2198,n,ps,yes,أخرى أجناس،,inclusive,اخري اجناس,اخر جنس
+312,312,AR922,n,ddp,yes,شعوذة,conservative,شعوذه,شعذ
+313,313,AR343,n,pr,no,زانية,conservative,زانيه,زني
+314,314,AR2414,a,svp,no,غاضب,inclusive,غاضب,غضب
+315,315,AR1053,n,cds,no,ديماجوجيه,conservative,ديماجوجيه,ديماجوجيه
+316,316,AR694,n,ddp,yes,أغبياء,inclusive,اغبياء,غبياء
+317,317,AR475,n,an,no,مكعباني شبيه بالمكعب,conservative,مكعباني شبيه بالمكعب,كعب شبه كعب
+318,318,AR1372,n,ddp,yes,أحمق,conservative,احمق,حمق
+319,319,AR1579,n,om,no,مثليين,inclusive,مثلين,مثل
+320,320,AR606,n,svp,no,غطرسة,conservative,غطرسه,غطرس
+321,321,AR1274,n,an,no,نعجة,inclusive,نعجه,نعج
+322,322,AR2348,n,or,no,بطاطس,inclusive,بطاطس,ططس
+323,323,AR1159,n,om,no,أليه,inclusive,اليه,اليه
+324,324,AR329,n,cds,no,مرقس,conservative,مرقس,رقس
+325,325,AR1787,n,asm,no,قضيب,inclusive,قضيب,قضب
+326,326,AR1409,n,svp,no,غضب,conservative,غضب,غضب
+327,327,AR2012,n,re,no,مبتز,inclusive,مبتز,بتز
+328,328,AR1241,n,qas,no,هواة,inclusive,هواه,هوه
+329,329,AR361,n,cds,no,زيف,conservative,زيف,زيف
+330,330,AR963,n,an,no,بوم,inclusive,بوم,بوم
+331,331,AR658,n,ddp,yes,سجين,inclusive,سجين,سجن
+332,332,AR1660,n,cds,no,عبادة الأصنام,inclusive,عباده الاصنام,عبد صنم
+333,333,AR478,n,dmc,yes,خبيث,conservative,خبيث,خبث
+334,334,AR2151,n,cds,no,سراق,inclusive,سراق,سرق
+335,335,AR687,n,dmc,yes,منبوذون,inclusive,منبوذون,نبذ
+336,336,AR1281,n,dmc,yes,مُبَذِّر,inclusive,مبذر,بذر
+337,337,AR353,n,pr,no,إمرأة فاسقة,conservative,امراه فاسقه,مره فسق
+338,338,AR1018,n,or,no,قثد,inclusive,قثد,قثد
+339,339,AR1540,n,pr,no,بائعات الهوى,conservative,باءعات الهوي,بءع هوي
+340,340,AR501,n,dmc,yes,متردد,conservative,مترد,ترد
+341,341,AR791,n,asm,no,عير,conservative,عير,عير
+342,342,AR2448,n,an,no,دجاجه,inclusive,دجاجه,دجج
+343,343,AR1366,n,an,no,براغيث,inclusive,براغيث,راغيث
+344,344,AR195,n,asm,no,غبي,inclusive,غبي,غبي
+345,345,AR1361,n,an,no,برغوت,inclusive,برغوت,رغو
+346,346,AR1051,n,cds,no,غوغائية,conservative,غوغاءيه,غوغاء
+347,347,AR206,n,cds,no,أبله,inclusive,ابله,ابل
+348,348,AR1944,n,cds,no,شخص ريفى أخرق,conservative,شخص ريفي اخرق,شخص ريف خرق
+349,349,AR2259,n,ddf,yes,قبح,inclusive,قبح,قبح
+350,350,AR2514,n,cds,no,خاضع,conservative,خاضع,خضع
+351,351,AR356,n,dmc,yes,بهتان,inclusive,بهتان,بهت
+352,352,AR2349,n,or,no,بطاطة,inclusive,بطاطه,بطط
+353,353,AR129,n,ddp,yes,امية,inclusive,اميه,امه
+354,354,AR1386,n,cds,no,ماسونيون,inclusive,ماسونيون,اسن
+355,355,AR1045,n,dmc,yes,خديعة,conservative,خديعه,خدع
+356,356,AR277,n,cds,no,متوحش,conservative,متوحش,توحش
+357,357,AR75,n,om,no,جنس شرجي,inclusive,جنس شرجي,جنس شرج
+358,358,AR501,n,ddp,yes,متردد,conservative,مترد,ترد
+359,359,AR1684,n,is,yes,فقراء,inclusive,فقراء,قرء
+360,360,AR679,n,cds,no,جيفة,inclusive,جيفه,جيف
+361,361,AR1569,n,om,no,شذوذ,inclusive,شذوذ,شذذ
+362,362,AR1052,n,cds,no,ديماغوجيا,conservative,ديماغوجيا,ديماغوج
+363,363,AR2652,n,re,no,الاعتداءات الجنسية,inclusive,الاعتداءات الجنسيه,عدء جنس
+364,364,AR1056,n,cds,no,ديماغوغيا,conservative,ديماغوغيا,ديماغوغ
+365,365,AR2257,n,ddf,yes,قباحة,inclusive,قباحه,قبح
+366,366,AR2788,n,an,no,بَقَرَة,inclusive,بقره,بقر
+367,367,AR2653,n,re,no,اعتداء جنسي,inclusive,اعتداء جنسي,عدء جنس
+368,368,AR2618,a,ddf,yes,أعور,inclusive,اعور,اعر
+369,369,AR889,n,om,no,شاذّ,conservative,شاذ,شاذ
+370,370,AR372,n,cds,no,فوضى,inclusive,فوضي,فوض
+371,371,AR1189,n,pa,yes,بواب,inclusive,بواب,بوب
+372,372,AR2343,n,or,no,بطاطة,inclusive,بطاطه,بطط
+373,373,AR856,n,asm,no,لعنة,conservative,لعنه,لعن
+374,374,AR640,n,cds,no,سيارة عتيقة,inclusive,سياره عتيقه,سير عتق
+375,375,AR845,n,cds,no,زحمة,inclusive,زحمه,زحم
+376,376,AR2475,n,cds,no,دفاع,inclusive,دفاع,دفع
+377,377,AR686,n,is,yes,منبوذين,inclusive,منبوذين,نبذ
+378,378,AR1662,n,cds,no,نذل,conservative,نذل,نذل
+379,379,AR511,n,ddp,yes,شراسة,conservative,شراسه,شرس
+380,380,AR1671,n,ddf,yes,إعاقة,inclusive,اعاقه,عقه
+381,381,AR1012,n,asf,no,فرج,conservative,فرج,فرج
+382,382,AR130,n,ddp,yes,أميه,inclusive,اميه,امه
+383,383,AR238,n,is,yes,بخيل,conservative,بخيل,بخل
+384,384,AR1952,n,qas,no,تطفل,inclusive,تطفل,طفل
+385,385,AR1643,n,an,no,ضِباع,inclusive,ضباع,ضبع
+386,386,AR1220,n,pa,yes,مستخدم,inclusive,مستخدم,خدم
+387,387,AR46,n,cds,no,رداءة,conservative,رداءه,ردء
+388,388,AR2400,n,an,no,صئبان,inclusive,صءبان,صءب
+389,389,AR2107,n,asm,no,بليده,conservative,بليده,بلد
+390,390,AR2649,n,re,no,الاعتداء الجنسي,inclusive,الاعتداء الجنسي,عدء جنس
+391,391,AR1480,n,cds,no,رجعية,conservative,رجعيه,رجع
+392,392,AR1457,n,cds,no,راقص محترف,inclusive,راقص محترف,رقص حرف
+393,393,AR32,n,cds,no,سمسار,inclusive,سمسار,سار
+394,394,AR276,n,ddp,yes,بربرية,conservative,بربريه,ربر
+395,395,AR1137,n,om,no,عجز,inclusive,عجز,عجز
+396,396,AR595,n,cds,no,أنانيه,conservative,انانيه,نني
+397,397,AR695,n,asf,no,مأفون,conservative,مافون,ماف
+398,398,AR1909,n,cds,no,شرطي,conservative,شرطي,شرط
+399,399,AR1957,n,qas,no,تطفل,inclusive,تطفل,طفل
+400,400,AR347,n,pr,no,وقحة,conservative,وقحه,وقح
+401,401,AR2469,a,ps,yes,صيني,inclusive,صيني,صين
+402,402,AR2637,n,ddp,yes,هراء,inclusive,هراء,هرء
+403,403,AR2376,v,cds,no,ذبل,inclusive,ذبل,ذبل
+404,404,AR1299,n,cds,no,قواد,conservative,قواد,قود
+405,405,AR898,n,ddp,yes,نمام,conservative,نمام,نمم
+406,406,AR1440,n,asf,no,مهبل,conservative,مهبل,هبل
+407,407,AR2441,n,an,no,دجاج,inclusive,دجاج,دجج
+408,408,AR969,n,qas,no,طاقم,inclusive,طاقم,طقم
+409,409,AR1401,n,svp,no,جنون,conservative,جنون,جنن
+410,410,AR27,n,re,no,عنف,inclusive,عنف,عنف
+411,411,AR195,n,ddp,yes,غبي,conservative,غبي,غبي
+412,412,AR1397,n,cds,no,أصولية,inclusive,اصوليه,اصل
+413,413,AR1564,n,om,no,شواذ,inclusive,شواذ,شوذ
+414,414,AR2639,n,re,no,مغتصب,conservative,مغتصب,غصب
+415,415,AR721,n,cds,no,مشعوذ,inclusive,مشعوذ,شعذ
+416,416,AR2619,a,cds,no,عادية,inclusive,عاديه,عدي
+417,417,AR513,n,svp,no,مللّ,inclusive,مل,مل
+418,418,AR1751,a,is,yes,مؤسف,inclusive,مءسف,ءسف
+419,419,AR525,n,an,no,ثور,inclusive,ثور,ثور
+420,420,AR1224,n,re,no,مجرمين,inclusive,مجرمين,جرم
+421,421,AR2098,n,ddp,yes,اغبى,conservative,اغبي,اغب
+422,422,AR392,n,dmc,yes,ملفق,conservative,ملفق,لفق
+423,423,AR1503,n,an,no,خنزير,inclusive,خنزير,خنزير
+424,424,AR197,n,ddp,yes,أحمق,conservative,احمق,حمق
+425,425,AR339,n,pr,no,مومس,inclusive,مومس,ومس
+426,426,AR512,n,an,no,خبث,conservative,خبث,خبث
+427,427,AR701,n,re,no,افتراء,inclusive,افتراء,فرء
+428,428,AR1418,n,re,no,شقي,inclusive,شقي,شقي
+429,429,AR2100,n,asm,no,غباء,conservative,غباء,غبء
+430,430,AR988,n,ddf,yes,أحدب,inclusive,احدب,حدب
+431,431,AR886,n,or,no,عليل,conservative,عليل,علل
+432,432,AR965,n,an,no,بومة،,inclusive,بومه,بوم
+433,433,AR1123,n,dmc,yes,نفاق,conservative,نفاق,نفق
+434,434,AR159,n,an,no,حيوانية,inclusive,حيوانيه,حيو
+435,435,AR1069,n,asf,no,ساذج,conservative,ساذج,سذج
+436,436,AR467,n,re,no,إبتزاز,conservative,ابتزاز,بزز
+437,437,AR682,n,dmc,yes,منبوذ,inclusive,منبوذ,نبذ
+438,438,AR1760,n,cds,no,مرابي,inclusive,مرابي,ربي
+439,439,AR216,n,om,no,حمار,inclusive,حمار,حمر
+440,440,AR356,n,cds,no,بهتان,conservative,بهتان,بهت
+441,441,AR779,n,an,no,معزة,inclusive,معزه,عزه
+442,442,AR1853,n,ps,yes,مغولي,inclusive,مغولي,غول
+443,443,AR2421,n,re,no,انتحال,inclusive,انتحال,نحل
+444,444,AR2378,n,an,no,انتهازي,conservative,انتهازي,نهز
+445,445,AR520,n,an,no,بقرة,inclusive,بقره,بقر
+446,446,AR739,n,dmc,yes,شرير,conservative,شرير,شرر
+447,447,AR1316,n,qas,no,مزارعون,inclusive,مزارعون,زرع
+448,448,AR1804,n,re,no,لص,inclusive,لص,لص
+449,449,AR2607,n,cds,no,علموية,inclusive,علمويه,علمو
+450,450,AR1827,n,cds,no,كنيف,inclusive,كنيف,كنف
+451,451,AR1057,n,cds,no,رعاع,conservative,رعاع,رعع
+452,452,AR2640,n,re,no,مغتصب,conservative,مغتصب,غصب
+453,453,AR692,n,asm,no,قميء,inclusive,قميء,قمء
+454,454,AR372,n,cds,no,فوضى,conservative,فوضي,فوض
+455,455,AR401,n,svp,no,متعصب,conservative,متعصب,تعصب
+456,456,AR1984,n,asm,no,جلبانة,inclusive,جلبانه,جلب
+457,457,AR2001,n,is,yes,فقير,inclusive,فقير,فقر
+458,458,AR1380,n,cds,no,ماسوني,inclusive,ماسوني,اسو
+459,459,AR274,n,qas,no,غليظ,conservative,غليظ,غلظ
+460,460,AR1463,n,cds,no,متسكع,conservative,متسكع,تسكع
+461,461,AR1055,n,cds,no,ديماغوجية,conservative,ديماغوجيه,ديماغوجيه
+462,462,AR1515,a,cds,no,ماكر,inclusive,ماكر,اكر
+463,463,AR1740,n,svp,no,غريزه جنسيه,inclusive,غريزه جنسيه,غرز جنس
+464,464,AR398,a,cds,no,غبي,conservative,غبي,غبي
+465,465,AR502,n,cds,no,متخبط,conservative,متخبط,تخبط
+466,466,AR2111,n,asm,no,تغابي,conservative,تغابي,غبي
+467,467,AR1536,n,pr,no,دعاره,conservative,دعاره,دعر
+468,468,AR720,n,cds,no,سارق,inclusive,سارق,سرق
+469,469,AR1886,n,an,no,بغل,inclusive,بغل,بغل
+470,470,AR198,n,or,no,مغفل,conservative,مغفل,غفل
+471,471,AR215,n,an,no,اتان,inclusive,اتان,اتن
+472,472,AR1867,n,an,no,باعوض,inclusive,باعوض,بعض
+473,473,AR303,n,pa,yes,محامين,inclusive,محامين,حام
+474,474,AR92,n,cds,no,مزحة,inclusive,مزحه,زحه
+475,475,AR639,n,cds,no,سيارة بالية,inclusive,سياره باليه,سير بلي
+476,476,AR1206,n,ps,yes,التائه,inclusive,التاءه,تءه
+477,477,AR97,n,cds,no,سلوك غريب,inclusive,سلوك غريب,سلك غرب
+478,478,AR787,n,an,no,خشونة,conservative,خشونه,خشن
+479,479,AR275,n,qas,no,البرابرة,conservative,البرابره,ربر
+480,480,AR263,n,asm,no,الخصية,inclusive,الخصيه,خصه
+481,481,AR190,n,cds,no,بصيرة,inclusive,بصيره,بصر
+482,482,AR501,n,cds,no,المتردد,conservative,المترد,ترد
+483,483,AR272,n,ps,yes,برابرة,conservative,برابره,ربر
+484,484,AR528,n,an,no,بقره,inclusive,بقره,بقر
+485,485,AR2521,a,dmc,yes,قذر,inclusive,قذر,قذر
+486,486,AR259,n,asm,no,خصيتان,inclusive,خصيتان,خصي
+487,487,AR2572,n,an,no,الصرصوريات,inclusive,الصرصوريات,صرصور
+488,488,AR530,n,an,no,بقر,inclusive,بقر,بقر
+489,489,AR399,n,cds,no,عِناد,conservative,عناد,عند
+490,490,AR203,n,ddp,yes,معتوه,inclusive,معتوه,عته
+491,491,AR637,n,re,no,الوغد,conservative,الوغد,وغد
+492,492,AR938,n,an,no,بَقّ,inclusive,بق,بق
+493,493,AR2322,n,qas,no,المتسول,conservative,المتسول,تسل
+494,494,AR694,n,asm,no,أغبياء,inclusive,اغبياء,غبياء
+495,495,AR1151,n,om,no,القاعدية,inclusive,القاعديه,قعد
+496,496,AR420,n,dmc,yes,جنائي,inclusive,جناءي,جنء
+497,497,AR1166,n,om,no,ظهري بطني,inclusive,ظهري بطني,ظهر بطن
+498,498,AR146,n,an,no,الحنكليس,inclusive,الحنكليس,حنكليس
+499,499,AR2660,a,svp,no,متغطرس,conservative,متغطرس,غطرس
+500,500,AR907,n,ddp,yes,ثرثرة,conservative,ثرثره,ثرثر
+501,501,AR2520,a,dmc,yes,القذرة,inclusive,القذره,قذر
+502,502,AR2747,n,an,no,يرقة,inclusive,يرقه,يرق
+503,503,AR1701,n,ddp,yes,الجهل,conservative,الجهل,جهل
+504,504,AR2633,a,ddf,yes,قبيح,conservative,قبيح,قبح
+505,505,AR2113,n,ddp,yes,بلداء,conservative,بلداء,لدء
+506,506,AR886,n,om,no,عليل,conservative,عليل,علل
+507,507,AR2102,n,asm,no,استغباء,conservative,استغباء,غبء
+508,508,AR67,n,svp,no,حب الذات,conservative,حب الذات,حب ذات
+509,509,AR1574,n,om,no,مثيلي,inclusive,مثيلي,ثيل
+510,510,AR2604,a,svp,no,فاسق,conservative,فاسق,فسق
+511,511,AR485,n,qas,no,خطأ فاضح,inclusive,خطا فاضح,خطا فضح
+512,512,AR1266,n,dmc,yes,فسق,conservative,فسق,فسق
+513,513,AR2535,n,an,no,ضفدع,inclusive,ضفدع,ضفدع
+514,514,AR722,n,cds,no,المخادع,conservative,المخادع,خدع
+515,515,AR1409,n,svp,no,الغضب,inclusive,الغضب,غضب
+516,516,AR728,n,qas,no,أوباش,conservative,اوباش,وبش
+517,517,AR273,n,qas,no,همجي,conservative,همجي,همج
+518,518,AR1393,n,cds,no,الأصوليون,inclusive,الاصوليون,اصل
+519,519,AR202,n,cds,no,المغفل,inclusive,المغفل,غفل
+520,520,AR2481,n,pr,no,الخزعبلات,conservative,الخزعبلات,خزعبل
+521,521,AR309,n,dmc,yes,خسيس,conservative,خسيس,خسس
+522,522,AR2415,n,asm,no,العادة السرية,conservative,العاده السريه,عده سره
+523,523,AR2231,n,an,no,القراد,inclusive,القراد,قرد
+524,524,AR210,n,an,no,شخص غير متعلم,conservative,شخص متعلم,شخص تعلم
+525,525,AR2662,n,cds,no,السطحية,inclusive,السطحيه,سطح
+526,526,AR345,n,dmc,yes,فاحشة,conservative,فاحشه,فحش
+527,527,AR1674,n,ddf,yes,العجز,inclusive,العجز,عجز
+528,528,AR765,n,pa,yes,كاتب,inclusive,كاتب,كتب
+529,529,AR1418,n,cds,no,الشقي,inclusive,الشقي,شقي
+530,530,AR661,n,ddp,yes,السجناء,inclusive,السجناء,جنء
+531,531,AR1540,n,pr,no,بائعات الهوى,inclusive,باءعات الهوي,بءع هوي
+532,532,AR1139,n,om,no,المؤخرة,inclusive,المءخره,ءخر
+533,533,AR1369,n,dmc,yes,احمق,inclusive,احمق,حمق
+534,534,AR2129,n,an,no,بزاق,inclusive,بزاق,بزق
+535,535,AR1542,n,pr,no,دعارة,inclusive,دعاره,دعر
+536,536,AR206,n,an,no,الأبله,conservative,الابله,ابل
+537,537,AR2399,n,an,no,القملة,inclusive,القمله,قمل
+538,538,AR202,n,ddp,yes,المغفل,conservative,المغفل,غفل
+539,539,AR1306,n,cds,no,القوادين,inclusive,القوادين,قود
+540,540,AR132,n,ddp,yes,أمية,inclusive,اميه,امه
+541,541,AR1498,n,an,no,يغش fulvus,inclusive,يغش,يغش
+542,542,AR402,n,dmc,yes,عناد,conservative,عناد,عند
+543,543,AR1832,n,dmc,yes,المتكاسل,conservative,المتكاسل,كاسل
+544,544,AR1870,n,an,no,عث,inclusive,عث,عث
+545,545,AR1863,n,an,no,بعوض,inclusive,بعوض,بعض
+546,546,AR1134,n,om,no,خلف,inclusive,خلف,خلف
+547,547,AR1845,n,ps,yes,مغول,inclusive,مغول,غول
+548,548,AR2304,n,dmc,yes,مهرّجون,inclusive,مهرجون,هرج
+549,549,AR1676,n,ddp,yes,لا معنى لها,conservative,معني,عني
+550,550,AR309,n,re,no,خسيس,conservative,خسيس,خسس
+551,551,AR2751,n,cds,no,الرعديد,conservative,الرعديد,رعديد
+552,552,AR2617,a,ddf,yes,عوراء,inclusive,عوراء,عوراء
+553,553,AR154,n,ddp,yes,بهيمة,inclusive,بهيمه,بهم
+554,554,AR1426,n,cds,no,الفاشيين,conservative,الفاشين,فاش
+555,555,AR238,n,svp,no,بخيل,inclusive,بخيل,بخل
+556,556,AR273,n,ddp,yes,همجي,conservative,همجي,همج
+557,557,AR1762,n,cds,no,المرابين,inclusive,المرابين,راب
+558,558,AR1741,n,svp,no,شهوانية,inclusive,شهوانيه,شهو
+559,559,AR1089,n,cds,no,الجريمة,inclusive,الجريمه,جرم
+560,560,AR1791,v,cds,no,تآمر,inclusive,تامر,تمر
+561,561,AR2700,n,om,no,كروسدرسر,inclusive,كروسدرسر,كروسدرسر
+562,562,AR1155,n,om,no,موخرة,inclusive,موخره,وخر
+563,563,AR198,n,asm,no,مغفل,conservative,مغفل,غفل
+564,564,AR2097,n,an,no,الخراف,inclusive,الخراف,خرف
+565,565,AR916,n,ddp,yes,الدجال,conservative,الدجال,دجل
+566,566,AR67,n,cds,no,حب الذات,conservative,حب الذات,حب ذات
+567,567,AR755,n,cds,no,عشيرة,inclusive,عشيره,عشر
+568,568,AR770,n,an,no,عنز,inclusive,عنز,عنز
+569,569,AR2184,n,ps,yes,زنوج,inclusive,زنوج,زنج
+570,570,AR1093,n,cds,no,الأنشطة الإجرامية,inclusive,الانشطه الاجراميه,شطه جرم
+571,571,AR803,n,cds,no,مشكلة,conservative,مشكله,شكل
+572,572,AR197,n,asm,no,أحمق,conservative,احمق,حمق
+573,573,AR687,n,is,yes,منبوذون,inclusive,منبوذون,نبذ
+574,574,AR442,n,ps,yes,اللون الأسود,inclusive,الون الاسود,الن اسد
+575,575,AR93,n,cds,no,نكتة,inclusive,نكته,نكت
+576,576,AR912,n,cds,no,جبانة,conservative,جبانه,جبن
+577,577,AR2292,n,an,no,أفعوان,inclusive,افعوان,فعو
+578,578,AR2204,n,cds,no,الشهوة,conservative,الشهوه,شهه
+579,579,AR2478,n,pr,no,الزانية,conservative,الزانيه,زني
+580,580,AR313,n,qas,no,البارونة,inclusive,البارونه,برن
+581,581,AR403,n,svp,no,المتعصب,conservative,المتعصب,تعصب
+582,582,AR197,n,ps,yes,أحمق,conservative,احمق,حمق
+583,583,AR430,n,ddp,yes,مفشي السر,conservative,مفشي السر,فشي لسر
+584,584,AR2668,n,re,no,ارهابيون,inclusive,ارهابيون,رهب
+585,585,AR2368,n,cds,no,اعرف انها للجميع,conservative,اعرف انها لجميع,عرف انه جمع
+586,586,AR870,n,an,no,أرْنَب,inclusive,ارنب,رنب
+587,587,AR571,n,om,no,لواطي,inclusive,لواطي,لطي
+588,588,AR140,n,an,no,ثعبان البحر,inclusive,ثعبان البحر,ثعب بحر
+589,589,AR935,n,an,no,بقة الفراش,inclusive,بقه الفراش,بقه فرش
+590,590,AR1083,n,ps,yes,متلف,conservative,متلف,تلف
+591,591,AR2688,v,re,no,عذب,inclusive,عذب,عذب
+592,592,AR294,n,pa,yes,مؤيد,inclusive,مءيد,ءيد
+593,593,AR2672,n,re,no,ارهاب,inclusive,ارهاب,رهب
+594,594,AR1955,n,qas,no,الطفيلية,inclusive,الطفيليه,طفل
+595,595,AR1856,n,an,no,بعوضيات,inclusive,بعوضيات,بعض
+596,596,AR503,n,dmc,yes,ضجة,conservative,ضجه,ضجه
+597,597,AR1029,n,qas,no,رفض,conservative,رفض,رفض
+598,598,AR2291,n,an,no,الأفعى الخبيثة,inclusive,الافعي الخبيثه,افع خبث
+599,599,AR1474,n,dmc,yes,جيد مقابل لا شيء,conservative,جيد مقابل شيء,جيد قبل شيء
+600,600,AR165,n,ddp,yes,أنعام,inclusive,انعام,عام
+601,601,AR2109,n,asm,no,بليدات,conservative,بليدات,بلد
+602,602,AR2591,n,an,no,المكورات الكلبية,inclusive,المكورات الكلبيه,كور كلب
+603,603,AR1661,n,cds,no,عبادة الأوثان,inclusive,عباده الاوثان,عبد اوث
+604,604,AR2359,v,asm,no,استهزأ,conservative,استهزا,هزا
+605,605,AR731,n,cds,no,عامة,conservative,عامه,عمه
+606,606,AR355,n,an,no,صبي الإيجار,conservative,صبي الايجار,صبي يجر
+607,607,AR360,n,cds,no,كذبة,inclusive,كذبه,كذب
+608,608,AR2563,n,an,no,العلقيات,inclusive,العلقيات,علق
+609,609,AR261,n,asm,no,خصيه,inclusive,خصيه,خصه
+610,610,AR2116,n,ddp,yes,غبيون,conservative,غبيون,غبي
+611,611,AR2668,n,re,no,ارهابيون,conservative,ارهابيون,رهب
+612,612,AR159,n,ddp,yes,حيوانية,inclusive,حيوانيه,حيو
+613,613,AR862,n,asm,no,سخيف,conservative,سخيف,سخف
+614,614,AR1752,a,is,yes,حزين,inclusive,حزين,حزن
+615,615,AR2090,n,an,no,ضأن,inclusive,ضان,ضان
+616,616,AR508,n,pa,yes,فظاظة,conservative,فظاظه,فظظ
+617,617,AR428,n,cds,no,الثرثار,conservative,الثرثار,ثرثار
+618,618,AR1404,n,svp,no,ثورة,conservative,ثوره,ثور
+619,619,AR94,n,cds,no,أضحوكة,inclusive,اضحوكه,ضحو
+620,620,AR2012,n,cds,no,المبتز,inclusive,المبتز,بتز
+621,621,AR1300,n,cds,no,القواد,inclusive,القواد,قود
+622,622,AR1521,n,cds,no,سرقة,inclusive,سرقه,سرق
+623,623,AR162,n,ddp,yes,وحش,inclusive,وحش,وحش
+624,624,AR1682,n,is,yes,الفقر,inclusive,الفقر,فقر
+625,625,AR1219,n,cds,no,جنحة,inclusive,جنحه,جنح
+626,626,AR336,n,or,no,ضمادة,conservative,ضماده,ضمد
+627,627,AR2459,a,ps,yes,سوداء,inclusive,سوداء,ودء
+628,628,AR700,n,an,no,ثعلبة,inclusive,ثعلبه,ثعلب
+629,629,AR873,n,an,no,الارانب,inclusive,الارانب,رنب
+630,630,AR310,n,an,no,الكلب,inclusive,الكلب,كلب
+631,631,AR2576,n,an,no,الصرصور,inclusive,الصرصور,صرصور
+632,632,AR569,n,om,no,لوطي,inclusive,لوطي,لوط
+633,633,AR276,n,cds,no,البربرية,conservative,البربريه,ربر
+634,634,AR404,n,cds,no,عصابة,inclusive,عصابه,عصب
+635,635,AR1950,n,qas,no,المتطفلون,inclusive,المتطفلون,تطفل
+636,636,AR2583,n,cds,no,ثاني التصنيفات,conservative,ثاني التصنيفات,ثني صنف
+637,637,AR370,n,cds,no,الأنيقون,inclusive,الانيقون,انق
+638,638,AR974,n,ddf,yes,شل,inclusive,شل,شل
+639,639,AR795,n,asm,no,أير,conservative,اير,اير
+640,640,AR372,n,qas,no,فوضى,inclusive,فوضي,فوض
+641,641,AR1293,n,qas,no,الإفشاء,inclusive,الافشاء,فشء
+642,642,AR2577,n,an,no,الصرصار,inclusive,الصرصار,صرصار
+643,643,AR1527,n,re,no,نهب,inclusive,نهب,نهب
+644,644,AR1546,n,pr,no,غانية,inclusive,غانيه,غني
+645,645,AR1747,n,cds,no,المتواني,conservative,المتواني,توا
+646,646,AR2676,n,re,no,عمليات ارهابية,inclusive,عمليات ارهابيه,عمل رهب
+647,647,AR2695,n,om,no,متخنث,inclusive,متخنث,تخنث
+648,648,AR723,n,cds,no,النحات,conservative,النحات,نحت
+649,649,AR268,n,re,no,قاطع طريق,inclusive,قاطع طريق,قطع طرق
+650,650,AR1124,n,dmc,yes,النفاق,conservative,النفاق,نفق
+651,651,AR268,n,cds,no,قاطع طريق,conservative,قاطع طريق,قطع طرق
+652,652,AR777,n,an,no,المعيز,inclusive,المعيز,عيز
+653,653,AR2472,a,cds,no,جبان,conservative,جبان,جبن
+654,654,AR1206,n,dmc,yes,التائه,inclusive,التاءه,تءه
+655,655,AR588,n,qas,no,برجوازية,inclusive,برجوازيه,برجوازيه
+656,656,AR432,n,ddp,yes,واش,conservative,واش,واش
+657,657,AR1094,n,cds,no,بزه,inclusive,بزه,بزه
+658,658,AR1757,n,re,no,قاتل,inclusive,قاتل,قتل
+659,659,AR521,n,pr,no,ابقار,inclusive,ابقار,بقر
+660,660,AR914,v,cds,no,ثرثر,inclusive,ثرثر,ثرثر
+661,661,AR2083,n,ddp,yes,جمجمة صغيرة,inclusive,جمجمه صغيره,جمجم صغر
+662,662,AR2610,n,cds,no,علموية,inclusive,علمويه,علمو
+663,663,AR101,n,qas,no,فسد,inclusive,فسد,فسد
+664,664,AR400,n,dmc,yes,معاندة,conservative,معانده,عند
+665,665,AR1698,n,an,no,غير كفؤ,conservative,كفء,كفء
+666,666,AR353,n,an,no,إمرأة فاسقة,conservative,امراه فاسقه,مره فسق
+667,667,AR1681,n,is,yes,فقر,inclusive,فقر,فقر
+668,668,AR157,n,an,no,دابة,inclusive,دابه,دبه
+669,669,AR2611,n,ddp,yes,حمق,inclusive,حمق,حمق
+670,670,AR373,n,cds,no,انقلاب,inclusive,انقلاب,قلب
+671,671,AR692,n,ddp,yes,القميء,conservative,القميء,قمء
+672,672,AR630,n,qas,no,غوغاء,inclusive,غوغاء,غوغاء
+673,673,AR729,n,ddp,yes,عوام,conservative,عوام,عوم
+674,674,AR2326,n,cds,no,الأغنياء الجدد,inclusive,الاغنياء الجد,غنياء لجد
+675,675,AR2755,n,re,no,العنف,inclusive,العنف,عنف
+676,676,AR2434,n,re,no,قراصنة,inclusive,قراصنه,قرص
+677,677,AR2242,n,re,no,سفاح,inclusive,سفاح,سفح
+678,678,AR375,n,cds,no,الفوضى,conservative,الفوضي,فوض
+679,679,AR2300,n,dmc,yes,المهرجون,inclusive,المهرجون,هرج
+680,680,AR1516,n,cds,no,وغد,conservative,وغد,وغد
+681,681,AR530,n,pr,no,بقر,inclusive,بقر,بقر
+682,682,AR763,n,cds,no,العشيرة,inclusive,العشيره,عشر
+683,683,AR390,n,qas,no,أكذوبة,conservative,اكذوبه,كذب
+684,684,AR2574,n,an,no,صرصور,inclusive,صرصور,صرصور
+685,685,AR1875,n,an,no,عثة,inclusive,عثه,عثه
+686,686,AR197,n,cds,no,أحمق,conservative,احمق,حمق
+687,687,AR1044,n,dmc,yes,خادعة,conservative,خادعه,خدع
+688,688,AR270,n,cds,no,اللصوصية,inclusive,الصوصيه,صوص
+689,689,AR1970,n,an,no,ببغائيات,inclusive,بغاءيات,بغء
+690,690,AR144,n,an,no,ثعبان الماء,inclusive,ثعبان الماء,ثعب ماء
+691,691,AR152,n,ddp,yes,حيوانات,inclusive,حيوانات,حيو
+692,692,AR198,n,cds,no,مغفل,conservative,مغفل,غفل
+693,693,AR11,n,svp,no,سلبية,inclusive,سلبيه,سلب
+694,694,AR488,n,qas,no,غلطة شنيعة,inclusive,غلطه شنيعه,غلط شنع
+695,695,AR1608,n,cds,no,قطعان,inclusive,قطعان,قطع
+696,696,AR2600,a,ps,yes,يهودي,inclusive,يهودي,يهد
+697,697,AR2788,n,pr,no,بَقَرَة,inclusive,بقره,بقر
+698,698,AR383,n,ps,yes,أعرابي,inclusive,اعرابي,عرب
+699,699,AR1842,n,an,no,شعبة الرخاويات,inclusive,شعبه الرخاويات,شعب رخو
+700,700,AR611,n,cds,no,الاستعلاء,conservative,الاستعلاء,علء
+701,701,AR890,n,or,no,مثليون جنسيا,conservative,مثليون جنسيا,ثلي جنس
+702,702,AR1905,n,cds,no,الشرطي,conservative,الشرطي,شرط
+703,703,AR1120,n,dmc,yes,المنافق,conservative,المنافق,نفق
+704,704,AR2030,n,qas,no,الخطاب الكلاسيكي,inclusive,الخطاب الكلاسيكي,خطب كلس
+705,705,AR1857,n,an,no,ناموسة,inclusive,ناموسه,نمس
+706,706,AR2443,n,an,no,الدجاجة,inclusive,الدجاجه,دجج
+707,707,AR1091,n,re,no,السلوك الإجرامي,inclusive,السلوك الاجرامي,سلك جرم
+708,708,AR423,n,an,no,تيس,inclusive,تيس,تيس
+709,709,AR1765,n,an,no,حَشَرة,inclusive,حشره,حشر
+710,710,AR1653,n,qas,no,المنظر,inclusive,المنظر,نظر
+711,711,AR2047,n,ps,yes,نصف الطائفة,conservative,نصف الطاءفه,نصف طءف
+712,712,AR503,n,cds,no,ضجة,conservative,ضجه,ضجه
+713,713,AR1147,n,om,no,المقابل,inclusive,المقابل,قبل
+714,714,AR279,n,an,no,الهمجية,inclusive,الهمجيه,همج
+715,715,AR634,n,is,yes,الشرير,conservative,الشرير,شرر
+716,716,AR697,n,asm,no,غبية,inclusive,غبيه,غبه
+717,717,AR872,n,an,no,التصنيف العلمى للارانب,inclusive,التصنيف العلمي لارانب,صنف علم رنب
+718,718,AR1117,n,svp,no,كره,inclusive,كره,كره
+719,719,AR925,n,cds,no,النفايات المنزلية,conservative,النفايات المنزليه,نفي زلي
+720,720,AR694,n,ps,yes,أغبياء,conservative,اغبياء,غبياء
+721,721,AR2546,n,an,no,العلجوم,inclusive,العلجوم,علجوم
+722,722,AR766,n,an,no,وعل,inclusive,وعل,وعل
+723,723,AR511,n,an,no,شراسة,conservative,شراسه,شرس
+724,724,AR937,n,an,no,علة السرير,inclusive,عله السرير,عله سرر
+725,725,AR379,n,ps,yes,بدو,inclusive,بدو,بدو
+726,726,AR2756,n,re,no,غصب,inclusive,غصب,غصب
+727,727,AR403,n,cds,no,المتعصب,conservative,المتعصب,تعصب
+728,728,AR2098,n,asm,no,اغبى شخص في العالم,conservative,اغبي شخص العالم,اغب شخص علم
+729,729,AR616,n,an,no,شخص ردئ,conservative,شخص ردء,شخص ردء
+730,730,AR1477,n,dmc,yes,تافه,conservative,تافه,تفه
+731,731,AR435,n,cds,no,الأذى,conservative,الاذي,اذي
+732,732,AR322,n,an,no,نهاب,conservative,نهاب,نهب
+733,733,AR2321,n,qas,no,تسكع,conservative,تسكع,سكع
+734,734,AR790,n,an,no,سوقية,conservative,سوقيه,سوق
+735,735,AR2555,n,cds,no,مغرور,conservative,مغرور,غرر
+736,736,AR2251,n,re,no,جلاد,inclusive,جلاد,جلد
+737,737,AR2450,n,cds,no,الرضيع,inclusive,الرضيع,رضع
+738,738,AR2492,n,re,no,إختطاف,inclusive,اختطاف,خطف
+739,739,AR1762,n,cds,no,المرابين,conservative,المرابين,راب
+740,740,AR80,n,cds,no,كسلان,conservative,كسلان,كسل
+741,741,AR2554,n,cds,no,المقلد,conservative,المقلد,قلد
+742,742,AR71,n,om,no,الجنس الشرجي,inclusive,الجنس الشرجي,جنس شرج
+743,743,AR615,n,an,no,ثور,inclusive,ثور,ثور
+744,744,AR1080,n,ddp,yes,الأهبل,conservative,الاهبل,هبل
+745,745,AR30,n,re,no,قسوة,inclusive,قسوه,قسه
+746,746,AR203,n,asf,no,معتوه,conservative,معتوه,عته
+747,747,AR890,n,om,no,مثليون جنسيا,inclusive,مثليون جنسيا,ثلي جنس
+748,748,AR1263,n,asf,no,بغي,conservative,بغي,بغي
+749,749,AR1302,n,cds,no,القوادة,inclusive,القواده,قده
+750,750,AR2650,n,re,no,إعتداء جنسي,inclusive,اعتداء جنسي,عدء جنس
+751,751,AR9,n,svp,no,لامبالاة,inclusive,لامبالاه,لامبالاه
+752,752,AR213,n,an,no,الكر,inclusive,الكر,لكر
+753,753,AR622,n,ps,yes,المتشرد,inclusive,المتشرد,تشرد
+754,754,AR411,n,re,no,المارقة,conservative,المارقه,ارق
+755,755,AR2426,n,re,no,قرصنه,inclusive,قرصنه,قرص
+756,756,AR693,n,ddp,yes,عته,conservative,عته,عته
+757,757,AR582,n,qas,no,المتوسطة الدخل,inclusive,المتوسطه الدخل,توسط دخل
+758,758,AR1324,n,cds,no,نازي,conservative,نازي,نزي
+759,759,AR1669,n,ddf,yes,اعاقة,inclusive,اعاقه,عقه
+760,760,AR573,n,qas,no,البورجوازية,inclusive,البورجوازيه,بورجوازيه
+761,761,AR1908,n,cds,no,رجل شرطة,inclusive,رجل شرطه,رجل شرط
+762,762,AR2519,a,dmc,yes,المتسخة,inclusive,المتسخه,تسخ
+763,763,AR202,n,asf,no,المغفل,conservative,المغفل,غفل
+764,764,AR14,n,svp,no,سلبي,inclusive,سلبي,سلب
+765,765,AR1988,n,asm,no,قرطمان,inclusive,قرطمان,قرطم
+766,766,AR2499,n,re,no,اختطاف,inclusive,اختطاف,خطف
+767,767,AR1658,n,cds,no,الوثنية,inclusive,الوثنيه,وثن
+768,768,AR1570,n,om,no,من نفس الجنس,inclusive,نفس الجنس,نفس جنس
+769,769,AR918,n,cds,no,غشاش,conservative,غشاش,غشش
+770,770,AR1422,n,cds,no,فاشستية,conservative,فاشستيه,فشس
+771,771,AR104,n,qas,no,خليط,inclusive,خليط,خلط
+772,772,AR237,n,is,yes,بخيلة,conservative,بخيله,بخل
+773,773,AR2061,n,an,no,الميكروبات,inclusive,الميكروبات,ميكروب
+774,774,AR2199,n,ps,yes,آسيوية،,inclusive,اسيويه,سيه
+775,775,AR2683,n,re,no,تعذيب,inclusive,تعذيب,عذب
+776,776,AR1404,n,an,no,ثورة,inclusive,ثوره,ثور
+777,777,AR236,n,is,yes,البخيل,conservative,البخيل,بخل
+778,778,AR406,n,cds,no,عصابات,conservative,عصابات,عصب
+779,779,AR817,n,qas,no,طبقية,inclusive,طبقيه,طبق
+780,780,AR1538,n,pr,no,الجنس التجاري,inclusive,الجنس التجاري,جنس جري
+781,781,AR89,n,qas,no,تابعون,inclusive,تابعون,تبع
+782,782,AR1007,n,qas,no,التماثل,inclusive,التماثل,مثل
+783,783,AR1965,n,qas,no,الرعية,inclusive,الرعيه,رعه
+784,784,AR1872,n,pr,no,فراشة,inclusive,فراشه,فرش
+785,785,AR1999,n,asm,no,عمود,inclusive,عمود,عمد
+786,786,AR2187,n,ps,yes,الشديد السمرة,inclusive,الشديد السمره,شدد سمر
+787,787,AR2115,n,ddp,yes,الحماقة,conservative,الحماقه,حمق
+788,788,AR345,n,an,no,فاحشة,conservative,فاحشه,فحش
+789,789,AR1795,n,svp,no,سخط,inclusive,سخط,سخط
+790,790,AR515,n,svp,no,ملل,inclusive,مل,مل
+791,791,AR420,n,re,no,جنائي,inclusive,جناءي,جنء
+792,792,AR401,n,cds,no,متعصب,conservative,متعصب,تعصب
+793,793,AR1041,n,qas,no,الزنبور,conservative,الزنبور,زنبور
+794,794,AR271,n,cds,no,لصوصية,inclusive,لصوصيه,لصص
+795,795,AR2605,a,svp,no,غلم,conservative,غلم,غلم
+796,796,AR99,n,cds,no,الفضلات,inclusive,الفضلات,فضل
+797,797,AR609,n,cds,no,عجرفة,conservative,عجرفه,عجرف
+798,798,AR1812,n,cds,no,اللص المتسلل,conservative,الص المتسل,الص تسل
+799,799,AR1928,n,an,no,ثُور,inclusive,ثور,ثور
+800,800,AR867,n,an,no,ارنب,inclusive,ارنب,رنب
+801,801,AR274,n,rci,yes,غليظ,conservative,غليظ,غلظ
+802,802,AR693,n,asm,no,عته,inclusive,عته,عته
+803,803,AR1913,n,cds,no,مافيا,conservative,مافيا,ماف
+804,804,AR1519,n,cds,no,السرقه,inclusive,السرقه,سرق
+805,805,AR2386,n,is,yes,نذل,conservative,نذل,نذل
+806,806,AR794,n,asm,no,زب,conservative,زب,زب
+807,807,AR680,n,cds,no,كازينو,inclusive,كازينو,كازينو
+808,808,AR1181,n,qas,no,مأزق,inclusive,مازق,ازق
+809,809,AR2105,n,ddp,yes,غبيات,conservative,غبيات,غبي
+810,810,AR488,n,cds,no,غلطة شنيعة,inclusive,غلطه شنيعه,غلط شنع
+811,811,AR516,n,svp,no,سأم,inclusive,سام,سام
+812,812,AR1282,n,ddf,yes,شخص معاق,inclusive,شخص معاق,شخص عاق
+813,813,AR2753,n,re,no,ضراوة,inclusive,ضراوه,ضرو
+814,814,AR956,n,an,no,البوميات,inclusive,البوميات,بوم
+815,815,AR1697,n,ddp,yes,شخص غير كفء,conservative,شخص كفء,شخص كفء
+816,816,AR991,n,cds,no,الهجين intergeneric,inclusive,الهجين,هجن
+817,817,AR2261,n,dmc,yes,منحوس,inclusive,منحوس,نحس
+818,818,AR2569,n,an,no,صرصوريات,inclusive,صرصوريات,صرصور
+819,819,AR2552,v,re,no,سرق,inclusive,سرق,سرق
+820,820,AR2681,n,asm,no,قضيبي,inclusive,قضيبي,قضب
+821,821,AR42,n,pa,yes,أكاديمي,inclusive,اكاديمي,كاديم
+822,822,AR682,n,is,yes,منبوذ,inclusive,منبوذ,نبذ
+823,823,AR431,n,ddp,yes,ناشر الفضائح و الإشاعات,conservative,ناشر الفضاءح الاشاعات,نشر ضءح اشع
+824,824,AR1401,n,an,no,جنون,inclusive,جنون,جنن
+825,825,AR2452,n,cds,no,مولود,inclusive,مولود,ولد
+826,826,AR1639,n,cds,no,تكبر,inclusive,تكبر,كبر
+827,827,AR2112,n,asm,no,الغباوة,conservative,الغباوه,غبو
+828,828,AR1873,n,an,no,عثه,inclusive,عثه,عثه
+829,829,AR695,n,ddp,yes,مأفون,inclusive,مافون,ماف
+830,830,AR585,n,qas,no,برجواز,inclusive,برجواز,رجواز
+831,831,AR740,n,an,no,شقي,conservative,شقي,شقي
+832,832,AR181,n,re,no,الإغتصاب,conservative,الاغتصاب,غصب
+833,833,AR722,n,cds,no,المخادع,inclusive,المخادع,خدع
+834,834,AR1081,n,ps,yes,مرتبك,conservative,مرتبك,ربك
+835,835,AR736,n,an,no,جرو,inclusive,جرو,جرو
+836,836,AR2316,v,qas,no,أفسد,conservative,افسد,فسد
+837,837,AR2265,n,dmc,yes,التعيس,inclusive,التعيس,تعس
+838,838,AR1027,n,qas,no,قطف,conservative,قطف,قطف
+839,839,AR1326,n,cds,no,فاشي,conservative,فاشي,فشي
+840,840,AR206,n,cds,no,الأبله,conservative,الابله,ابل
+841,841,AR1355,n,dmc,yes,تزوير,inclusive,تزوير,زور
+842,842,AR1748,n,dmc,yes,كسول,conservative,كسول,كسل
+843,843,AR1008,n,cds,no,صبي صغير,inclusive,صبي صغير,صبي صغر
+844,844,AR282,n,qas,no,تاجر,inclusive,تاجر,تجر
+845,845,AR1561,n,om,no,مثلي,inclusive,مثلي,ثلي
+846,846,AR2460,a,ps,yes,أسود,inclusive,اسود,اسد
+847,847,AR1478,n,cds,no,اليمين المتطرف,conservative,اليمين المتطرف,يمن تطرف
+848,848,AR1764,n,an,no,الحشرة,inclusive,الحشره,حشر
+849,849,AR419,n,dmc,yes,مجرم,inclusive,مجرم,جرم
+850,850,AR2101,n,ddp,yes,التغابي,conservative,التغابي,غبي
+851,851,AR2785,n,ps,yes,الغجر,inclusive,الغجر,غجر
+852,852,AR2252,n,re,no,معذب,inclusive,معذب,عذب
+853,853,AR1833,n,svp,no,المتهرب,conservative,المتهرب,تهرب
+854,854,AR693,n,ps,yes,عته,conservative,عته,عته
+855,855,AR1831,n,cds,no,المراحيض,inclusive,المراحيض,مراحيض
+856,856,AR1520,n,re,no,السرقة,inclusive,السرقه,سرق
+857,857,AR152,n,an,no,حيوانات,inclusive,حيوانات,حيو
+858,858,AR399,n,dmc,yes,عِناد,conservative,عناد,عند
+859,859,AR609,n,svp,no,عجرفة,conservative,عجرفه,عجرف
+860,860,AR1353,n,dmc,yes,تزييف,inclusive,تزيف,تزف
+861,861,AR1129,n,dmc,yes,منافقون,conservative,منافقون,نفق
+862,862,AR2189,n,ps,yes,السود,inclusive,السود,سود
+863,863,AR1884,n,an,no,البغال,inclusive,البغال,بغل
+864,864,AR1200,n,cds,no,الحشوات,inclusive,الحشوات,حشو
+865,865,AR729,n,qas,no,عوام,conservative,عوام,عوم
+866,866,AR2,v,an,no,ينبح,inclusive,ينبح,نبح
+867,867,AR344,n,an,no,عاهرة,conservative,عاهره,عهر
+868,868,AR1192,n,cds,no,الأحداث الجانحين,conservative,الاحداث الجانحين,حدث جنح
+869,869,AR993,n,ps,yes ,الهجين,inclusive,الهجين,هجن
+870,870,AR2177,n,ps,yes,العرق الأسود,inclusive,العرق الاسود,عرق اسد
+871,871,AR1463,n,dmc,yes,متسكع,conservative,متسكع,تسكع
+872,872,AR1605,n,ps,yes,اليهود,inclusive,اليهود,يهد
+873,873,AR2440,n,an,no,صوص,inclusive,صوص,صوص
+874,874,AR645,a,ddf,yes,سَيّئ,inclusive,سيء,سيء
+875,875,AR267,n,dmc,yes,قطاع الطرق,conservative,قطاع الطرق,قطع طرق
+876,876,AR234,n,svp,no,طمع,inclusive,طمع,طمع
+877,877,AR1204,n,cds,no,عشرات,inclusive,عشرات,عشر
+878,878,AR238,n,an,no,بخيل,conservative,بخيل,بخل
+879,879,AR980,n,an,no,التماسيح,inclusive,التماسيح,مسح
+880,880,AR359,n,cds,no,كذب,inclusive,كذب,كذب
+881,881,AR722,n,dmc,yes,المخادع,conservative,المخادع,خدع
+882,882,AR2093,n,an,no,الخروف,inclusive,الخروف,خرف
+883,883,AR1759,n,cds,no,أقرض بالربا,inclusive,اقرض بالربا,قرض ربا
+884,884,AR2379,a,om,no,غير طبيعي,inclusive,طبيعي,طبع
+885,885,AR2104,n,asm,no,بليد,conservative,بليد,بلد
+886,886,AR2137,n,an,no,حلزونة,inclusive,حلزونه,حلزو
+887,887,AR2128,n,asm,no,الساخر,conservative,الساخر,سخر
+888,888,AR275,n,dmc,yes,البرابرة,conservative,البرابره,ربر
+889,889,AR2358,v,asm,no,سخر,conservative,سخر,سخر
+890,890,AR628,n,svp,no,المهمل,conservative,المهمل,همل
+891,891,AR1049,n,cds,no,ديماغوجية,conservative,ديماغوجيه,ديماغوجيه
+892,892,AR503,n,qas,no,ضجة,conservative,ضجه,ضجه
+893,893,AR1299,n,cds,no,قواد,inclusive,قواد,قود
+894,894,AR962,n,an,no,البومات,inclusive,البومات,بوم
+895,895,AR418,n,cds,no,جاني,inclusive,جاني,جني
+896,896,AR2301,n,dmc,yes,مهرجون,inclusive,مهرجون,هرج
+897,897,AR928,n,qas,no,النفايات,inclusive,النفايات,نفي
+898,898,AR1458,n,asf,no,شعر العانة,inclusive,شعر العانه,شعر عنه
+899,899,AR1325,n,cds,no,الفاشية,conservative,الفاشيه,فشي
+900,900,AR2117,n,asm,no,غباوة,conservative,غباوه,غبو
+901,901,AR1090,n,re,no,جناية,inclusive,جنايه,جني
+902,902,AR179,n,re,no,اغتصاب,conservative,اغتصاب,غصب
+903,903,AR1094,n,re,no,بزه,inclusive,بزه,بزه
+904,904,AR329,n,ddp,yes,مرقس,conservative,مرقس,رقس
+905,905,AR1385,n,cds,no,ماسونية,inclusive,ماسونيه,اسن
+906,906,AR1566,n,om,no,المثليين,inclusive,المثلين,مثل
+907,907,AR1864,n,an,no,بعوضة,inclusive,بعوضه,بعض
+908,908,AR697,n,ddp,yes,غبية,inclusive,غبيه,غبه
+909,909,AR1419,n,dmc,yes,العصابات,inclusive,العصابات,عصب
+910,910,AR1381,n,cds,no,ماسونيين,inclusive,ماسونين,اسن
+911,911,AR399,n,svp,no,عِناد,conservative,عناد,عند
+912,912,AR2628,a,is,yes,الفقراء,inclusive,الفقراء,قرء
+913,913,AR375,n,cds,no,الفوضى,inclusive,الفوضي,فوض
+914,914,AR1849,n,ps,yes,منغولي,conservative,منغولي,نغل
+915,915,AR206,n,ddp,yes,الأبله,inclusive,الابله,ابل
+916,916,AR934,n,an,no,بَقّة,inclusive,بقه,بقه
+917,917,AR267,n,cds,no,قطاع الطرق,inclusive,قطاع الطرق,قطع طرق
+918,918,AR1415,n,svp,no,عبث,conservative,عبث,عبث
+919,919,AR2677,n,re,no,الارهاب,conservative,الارهاب,رهب
+920,920,AR2324,n,cds,no,حديثة الثراء,inclusive,حديثه الثراء,حدث ثرء
+921,921,AR2542,n,an,no,ضفدعة,inclusive,ضفدعه,ضفدع
+922,922,AR1537,n,pr,no,لعهر,conservative,لعهر,عهر
+923,923,AR850,n,svp,no,شبق,inclusive,شبق,شبق
+924,924,AR606,n,cds,no,غطرسة,conservative,غطرسه,غطرس
+925,925,AR1089,n,re,no,الجريمة,inclusive,الجريمه,جرم
+926,926,AR406,n,cds,no,عصابات,inclusive,عصابات,عصب
+927,927,AR1775,n,cds,no,قلة إحترام,inclusive,قله احترام,قله حرم
+928,928,AR2267,n,cds,no,الربا,inclusive,الربا,ربا
+929,929,AR1169,n,om,no,مؤخرة,inclusive,مءخره,ءخر
+930,930,AR269,n,cds,no,لصوص,inclusive,لصوص,لصص
+931,931,AR684,n,is,yes,المنبوذون,inclusive,المنبوذون,نبذ
+932,932,AR2644,n,re,no,تحرش,inclusive,تحرش,حرش
+933,933,AR1223,a,ddp,yes,مجنون,inclusive,مجنون,مجن
+934,934,AR1140,n,om,no,الأليتان,inclusive,الاليتان,الي
+935,935,AR2262,n,dmc,yes,نحس,inclusive,نحس,نحس
+936,936,AR83,n,qas,no,تابعيون,inclusive,تابعيون,تبع
+937,937,AR1524,n,cds,no,سلب,inclusive,سلب,سلب
+938,938,AR2687,n,re,no,تعزيب,inclusive,تعزيب,عزب
+939,939,AR689,n,an,no,الضعيف الجسم,conservative,الضعيف الجسم,ضعف جسم
+940,940,AR161,n,ddp,yes,الحيوانية,inclusive,الحيوانيه,حيو
+941,941,AR894,n,om,no,خنيث,conservative,خنيث,خنث
+942,942,AR1834,n,cds,no,الكسالى,conservative,الكسالي,كسل
+943,943,AR2508,n,re,no,الآسر,inclusive,الاسر,اسر
+944,944,AR1659,n,cds,no,المشركين,inclusive,المشركين,شرك
+945,945,AR273,n,rci,yes,همجي,conservative,همجي,همج
+946,946,AR1662,n,dmc,yes,النذل,inclusive,النذل,نذل
+947,947,AR2762,n,an,no,الأفاعي,inclusive,الافاعي,فعي
+948,948,AR2115,n,asm,no,الحماقة,conservative,الحماقه,حمق
+949,949,AR514,n,svp,no,ضجر,inclusive,ضجر,ضجر
+950,950,AR686,n,dmc,yes,منبوذين,inclusive,منبوذين,نبذ
+951,951,AR404,n,cds,no,عصابة,conservative,عصابه,عصب
+952,952,AR1365,n,an,no,البرغوثيات,inclusive,البرغوثيات,رغث
+953,953,AR2169,n,ps,yes,زنجي,conservative,زنجي,زنج
+954,954,AR1013,n,or,no,كس,conservative,كس,كس
+955,955,AR1804,n,cds,no,لص,conservative,لص,لص
+956,956,AR2665,n,re,no,الإرهاب,inclusive,الارهاب,رهب
+957,957,AR2196,n,ps,yes,أسود,inclusive,اسود,اسد
+958,958,AR206,n,ps,yes,الأبله,conservative,الابله,ابل
+959,959,AR916,n,cds,no,الدجال,conservative,الدجال,دجل
+960,960,AR2456,n,cds,no,حديث ولادة,inclusive,حديث ولاده,حدث ولد
+961,961,AR637,n,cds,no,الوغد,conservative,الوغد,وغد
+962,962,AR2211,n,an,no,أوزة,inclusive,اوزه,اوز
+963,963,AR1749,n,qas,no,الكذب,conservative,الكذب,كذب
+964,964,AR1193,n,re,no,جانح,conservative,جانح,جنح
+965,965,AR1662,n,re,no,النذل,inclusive,النذل,نذل
+966,966,AR1272,n,re,no,الفاسق,conservative,الفاسق,فسق
+967,967,AR610,n,svp,no,غرور,inclusive,غرور,غرر
+968,968,AR2101,n,asm,no,التغابي,conservative,التغابي,غبي
+969,969,AR117,a,svp,no,عدواني,conservative,عدواني,عدا
+970,970,AR393,n,cds,no,كذاب,conservative,كذاب,كذب
+971,971,AR273,n,cds,no,همجي,conservative,همجي,همج
+972,972,AR2602,a,svp,no,داعر,conservative,داعر,دعر
+973,973,AR744,n,ps,yes,صينية,inclusive,صينيه,صين
+974,974,AR2759,n,re,no,عنوة,inclusive,عنوه,عنه
+975,975,AR1535,n,pr,no,شرموطة,conservative,شرموطه,شرموط
+976,976,AR634,n,re,no,الشرير,conservative,الشرير,شرر
+977,977,AR1731,n,cds,no,تحريم,inclusive,تحريم,حرم
+978,978,AR1698,n,ddp,yes,غير كفؤ,conservative,كفء,كفء
+979,979,AR239,n,an,no,البخل,conservative,البخل,بخل
+980,980,AR276,n,qas,no,البربرية,conservative,البربريه,ربر
+981,981,AR149,n,an,no,الحيوانات الكبيرة,inclusive,الحيوانات الكبيره,حيو كبر
+982,982,AR2381,n,cds,no,أغتياب,inclusive,اغتياب,غيب
+983,983,AR2009,n,cds,no,مروج,inclusive,مروج,روج
+984,984,AR2224,n,re,no,إرْهَابِيّ,inclusive,ارهابي,رهب
+985,985,AR1885,n,an,no,البغل,inclusive,البغل,بغل
+986,986,AR2746,n,cds,no,المرتشين,inclusive,المرتشين,رتش
+987,987,AR2677,n,re,no,الارهاب,inclusive,الارهاب,رهب
+988,988,AR927,n,cds,no,القمامة,inclusive,القمامه,قمم
+989,989,AR1594,n,ps,yes,إسرائيلي,inclusive,اسراءيلي,اسراءيلي
+990,990,AR203,n,asm,no,معتوه,inclusive,معتوه,عته
+991,991,AR6,n,dmc,yes,الحقارة,inclusive,الحقاره,حقر
+992,992,AR1760,n,cds,no,المرابي,conservative,المرابي,ربي
+993,993,AR198,n,an,no,مغفل,conservative,مغفل,غفل
+994,994,AR1537,n,pr,no,العهر,inclusive,العهر,عهر
+995,995,AR920,n,ddp,yes,دجال,conservative,دجال,دجل
+996,996,AR1575,n,om,no,مثيلية جنسية,inclusive,مثيليه جنسيه,ثيل جنس
+997,997,AR160,n,ddp,yes,الحيوانات,inclusive,الحيوانات,حيو
+998,998,AR113,n,asm,no,ناتئ,inclusive,ناتء,نتء
+999,999,AR721,n,dmc,yes,مشعوذ,conservative,مشعوذ,شعذ
+1000,1000,AR1639,n,cds,no,تكبر,conservative,تكبر,كبر
+1001,1001,AR1324,n,ps,yes,نازي,inclusive,نازي,نزي
+1002,1002,AR2102,n,ddp,yes,استغباء,conservative,استغباء,غبء
+1003,1003,AR2246,n,re,no,قاتلة,inclusive,قاتله,قتل
+1004,1004,AR924,n,qas,no,النفايات الصلبة,inclusive,النفايات الصلبه,نفي صلب
+1005,1005,AR1192,n,dmc,yes,الأحداث,conservative,الاحداث,حدث
+1006,1006,AR1195,n,dmc,yes,الجانحين,conservative,الجانحين,جنح
+1007,1007,AR2059,n,an,no,مكروب,inclusive,مكروب,كرب
+1008,1008,AR697,n,asf,no,غبية,conservative,غبيه,غبه
+1009,1009,AR156,n,an,no,الحيوان,inclusive,الحيوان,حيو
+1010,1010,AR2586,n,an,no,بنات آوى,inclusive,بنات اوي,بنت اوي
+1011,1011,AR1319,n,qas,no,المزارعين,inclusive,المزارعين,زرع
+1012,1012,AR631,n,qas,no,الغوغاء,inclusive,الغوغاء,غوغاء
+1013,1013,AR2222,n,re,no,إرهابية,conservative,ارهابيه,رهب
+1014,1014,AR1514,a,cds,no,خبيث,conservative,خبيث,خبث
+1015,1015,AR1599,n,ps,yes,يهود,inclusive,يهود,يهد
+1016,1016,AR276,n,pa,yes,البربرية,conservative,البربريه,ربر
+1017,1017,AR2263,n,dmc,yes,سيئ الطالع,inclusive,سيء الطالع,سيء طلع
+1018,1018,AR246,n,cds,no,منزل فاجر,inclusive,منزل فاجر,نزل فجر
+1019,1019,AR160,n,an,no,الحيوانات,inclusive,الحيوانات,حيو
+1020,1020,AR706,n,re,no,التشهير,inclusive,التشهير,شهر
+1021,1021,AR2113,n,asm,no,بلداء,conservative,بلداء,لدء
+1022,1022,AR1869,n,pr,no,العث,inclusive,العث,لعث
+1023,1023,AR2744,n,dmc,yes,التشرد,inclusive,التشرد,شرد
+1024,1024,AR2512,a,om,no,مختلفة,inclusive,مختلفه,خلف
+1025,1025,AR1474,n,svp,no,جيد مقابل لا شيء,conservative,جيد مقابل شيء,جيد قبل شيء
+1026,1026,AR2466,a,asm,no,أسمر,inclusive,اسمر,سمر
+1027,1027,AR2470,a,ps,yes,الصينية,inclusive,الصينيه,صين
+1028,1028,AR634,n,dmc,yes,الشرير,conservative,الشرير,شرر
+1029,1029,AR279,n,ddp,yes,الهمجية,inclusive,الهمجيه,همج
+1030,1030,AR455,n,cds,no,مفسد,inclusive,مفسد,فسد
+1031,1031,AR235,n,svp,no,بخل,inclusive,بخل,بخل
+1032,1032,AR356,n,qas,no,بهتان,conservative,بهتان,بهت
+1033,1033,AR616,n,dmc,yes,شخص رديء,conservative,شخص رديء,شخص ردء
+1034,1034,AR702,n,re,no,الأحقاد,inclusive,الاحقاد,حقد
+1035,1035,AR1115,n,svp,no,اشمئزاز,inclusive,اشمءزاز,شمءزاز
+1036,1036,AR1973,n,an,no,الببغاء,inclusive,البغاء,بغء
+1037,1037,AR1678,n,ddp,yes,هراء,conservative,هراء,هرء
+1038,1038,AR1902,n,svp,no,فاسق,inclusive,فاسق,فسق
+1039,1039,AR273,n,pa,yes,همجي,conservative,همجي,همج
+1040,1040,AR1126,n,cds,no,منافق,conservative,منافق,نفق
+1041,1041,AR1081,n,ddp,yes,مرتبك,conservative,مرتبك,ربك
+1042,1042,AR85,n,qas,no,تابعي,inclusive,تابعي,تبع
+1043,1043,AR1084,n,ps,yes,مجتث,conservative,مجتث,جتث
+1044,1044,AR1050,n,qas,no,غوغائي,conservative,غوغاءي,غوغاء
+1045,1045,AR2458,a,ps,yes,سود,inclusive,سود,سود
+1046,1046,AR1267,n,dmc,yes,شر,conservative,شر,شر
+1047,1047,AR1300,n,cds,no,القواد,conservative,القواد,قود
+1048,1048,AR773,n,an,no,ماعز,inclusive,ماعز,اعز
+1049,1049,AR1697,n,an,no,غير كفء,conservative,كفء,كفء
+1050,1050,AR434,n,cds,no,شيطانى,conservative,شيطاني,شيط
+1051,1051,AR712,n,re,no,المشهر,conservative,المشهر,شهر
+1052,1052,AR990,n,ddf,yes,حدباء,inclusive,حدباء,حدباء
+1053,1053,AR1050,n,cds,no,غوغائي,conservative,غوغاءي,غوغاء
+1054,1054,AR512,n,ddp,yes,خبث,conservative,خبث,خبث
+1055,1055,AR2150,n,re,no,سارق,inclusive,سارق,سرق
+1056,1056,AR1525,n,re,no,القذر,inclusive,القذر,قذر
+1057,1057,AR1601,n,ps,yes,اسرائيلي,inclusive,اسراءيلي,اسراءيلي
+1058,1058,AR890,n,om,no,مثليون جنسيا,conservative,مثليون جنسيا,ثلي جنس
+1059,1059,AR1721,n,cds,no,ناسخ,conservative,ناسخ,نسخ
+1060,1060,AR1742,n,svp,no,الغريزه الجنسيه,inclusive,الغريزه الجنسيه,غرز جنس
+1061,1061,AR2057,n,an,no,قرش,inclusive,قرش,قرش
+1062,1062,AR277,n,qas,no,متوحش,conservative,متوحش,توحش
+1063,1063,AR2058,n,an,no,ميكروب,inclusive,ميكروب,ميكروب
+1064,1064,AR2465,a,asm,no,بني,inclusive,بني,بني
+1065,1065,AR79,n,svp,no,كسل,inclusive,كسل,كسل
+1066,1066,AR866,n,an,no,الأرانب,inclusive,الارانب,رنب
+1067,1067,AR1696,n,svp,no,جمود,inclusive,جمود,جمد
+1068,1068,AR2366,n,cds,no,متحذلق,conservative,متحذلق,حذلق
+1069,1069,AR2562,n,an,no,علق,inclusive,علق,علق
+1070,1070,AR685,n,is,yes,منبوذة,inclusive,منبوذه,نبذ
+1071,1071,AR133,n,ddp,yes,الأمية,inclusive,الاميه,امه
+1072,1072,AR1277,n,dmc,yes,المبذرة,inclusive,المبذره,بذر
+1073,1073,AR1898,n,cds,no,جانٍ‎,inclusive,جان‎,جن‎
+1074,1074,AR2493,v,re,no,يختطف,inclusive,يختطف,خطف
+1075,1075,AR1892,n,cds,no,انطوائي,conservative,انطواءي,طوء
+1076,1076,AR1231,n,asm,no,انتصاب,inclusive,انتصاب,نصب
+1077,1077,AR569,n,or,no,لوطي,conservative,لوطي,لوط
+1078,1078,AR390,n,cds,no,أكذوبة,conservative,اكذوبه,كذب
+1079,1079,AR502,n,ddp,yes,المتخبط,conservative,المتخبط,تخبط
+1080,1080,AR2087,n,ddp,yes,قزامة الرأس,inclusive,قزامه الراس,قزم راس
+1081,1081,AR1416,n,dmc,yes,متجول,inclusive,متجول,تجل
+1082,1082,AR1308,n,pr,no,عشيقة,conservative,عشيقه,عشق
+1083,1083,AR1670,n,ddf,yes,المعاقين,inclusive,المعاقين,عاق
+1084,1084,AR1732,n,dmc,yes,المحتال,conservative,المحتال,حتل
+1085,1085,AR913,n,cds,no,جبن,conservative,جبن,جبن
+1086,1086,AR730,n,ddp,yes,رعاع,conservative,رعاع,رعع
+1087,1087,AR197,n,ddp,yes,أحمق,inclusive,احمق,حمق
+1088,1088,AR2015,n,pr,no,الجرذ,inclusive,الجرذ,جرذ
+1089,1089,AR50,n,ddp,yes,حماقة,inclusive,حماقه,حمق
+1090,1090,AR2014,n,pr,no,جرذ,inclusive,جرذ,جرذ
+1091,1091,AR1733,n,dmc,yes,مختلق,conservative,مختلق,خلق
+1092,1092,AR2104,n,ddp,yes,بليد,conservative,بليد,بلد
+1093,1093,AR691,n,cds,no,أبله,inclusive,ابله,ابل
+1094,1094,AR195,n,ps,yes,غبي,conservative,غبي,غبي
+1095,1095,AR2100,n,ddp,yes,غباء,conservative,غباء,غبء
+1096,1096,AR2615,a,ddp,yes,سخيف,conservative,سخيف,سخف
+1097,1097,AR411,n,cds,no,المارقة,conservative,المارقه,ارق
+1098,1098,AR620,n,dmc,yes,حثالة,conservative,حثاله,حثل
+1099,1099,AR1360,n,an,no,البرغوث,inclusive,البرغوث,رغث
+1100,1100,AR1085,n,cds,no,جرائم,inclusive,جراءم,جرءم
+1101,1101,AR2103,n,ddp,yes,الغباء,conservative,الغباء,غبء
+1102,1102,AR926,n,cds,no,الخردة,inclusive,الخرده,خرد
+1103,1103,AR223,n,an,no,أتان,inclusive,اتان,اتن
+1104,1104,AR961,n,an,no,بومة,inclusive,بومه,بوم
+1105,1105,AR2401,n,an,no,قملة,inclusive,قمله,قمل
+1106,1106,AR1800,n,cds,no,البعثرة,conservative,البعثره,عثر
+1107,1107,AR2160,n,cds,no,نرجسي,inclusive,نرجسي,رجس
+1108,1108,AR2117,n,ddp,yes,غباوة,inclusive,غباوه,غبو
+1109,1109,AR2671,n,re,no,العملية الارهابية,inclusive,العمليه الارهابيه,عمل رهب
+1110,1110,AR206,n,asf,no,الأبله,conservative,الابله,ابل
+1111,1111,AR2597,n,an,no,ابن اوى,inclusive,ابن اوي,ابن اوي
+1112,1112,AR2110,n,ddp,yes,بلادة,conservative,بلاده,بلد
+1113,1113,AR2498,n,re,no,الاختطاف,inclusive,الاختطاف,خطف
+1114,1114,AR203,n,or,no,معتوه,conservative,معتوه,عته
+1115,1115,AR1090,n,cds,no,جناية,inclusive,جنايه,جني
+1116,1116,AR1875,n,pr,no,عثة,inclusive,عثه,عثه
+1117,1117,AR276,n,ps,yes,البربرية,conservative,البربريه,ربر
+1118,1118,AR1219,n,re,no,جنحة,inclusive,جنحه,جنح
+1119,1119,AR2454,n,cds,no,الرضع,inclusive,الرضع,رضع
+1120,1120,AR1212,n,an,no,الحلزون,inclusive,الحلزون,حلز
+1121,1121,AR469,n,re,no,ابتزاز,conservative,ابتزاز,بزز
+1122,1122,AR2657,a,svp,no,مغرور,conservative,مغرور,غرر
+1123,1123,AR237,n,an,no,بخيلة,conservative,بخيله,بخل
+1124,1124,AR730,n,an,no,رعاع,conservative,رعاع,رعع
+1125,1125,AR2018,n,pr,no,الفئران,inclusive,الفءران,فءر
+1126,1126,AR2034,n,an,no,عقرب البحر,inclusive,عقرب البحر,عقرب بحر
+1127,1127,AR1539,n,pr,no,شرموطه,conservative,شرموطه,شرموط
+1128,1128,AR741,n,dmc,yes,شخص سيء,conservative,شخص سيء,شخص سيء
+1129,1129,AR309,n,cds,no,خسيس,conservative,خسيس,خسس
+1130,1130,AR555,n,qas,no,البرجوازية,inclusive,البرجوازيه,برجوازيه
+1131,1131,AR2587,n,an,no,بنات اوى,inclusive,بنات اوي,بنت اوي
+1132,1132,AR2060,n,an,no,مكروبات,inclusive,مكروبات,كرب
+1133,1133,AR2013,n,pr,no,جرذان,inclusive,جرذان,جرذ
+1134,1134,AR1998,n,cds,no,متآمر,inclusive,متامر,تمر
+1135,1135,AR95,n,cds,no,حيلة,inclusive,حيله,حيل
+1136,1136,AR2601,a,svp,no,شهواني,conservative,شهواني,شها
+1137,1137,AR2019,n,pr,no,الجرذان,inclusive,الجرذان,جرذ
+1138,1138,AR871,n,an,no,الأرنب,inclusive,الارنب,رنب
+1139,1139,AR80,n,svp,no,كسلان,conservative,كسلان,كسل
+1140,1140,AR1813,n,qas,no,مخلوط,inclusive,مخلوط,خلط
+1141,1141,AR1653,n,cds,no,المنظر,inclusive,المنظر,نظر
+1142,1142,AR277,n,ps,yes,متوحش,conservative,متوحش,توحش
+1143,1143,AR730,n,cds,no,رعاع,conservative,رعاع,رعع
+1144,1144,AR1522,n,re,no,حرامي,inclusive,حرامي,حرم
+1145,1145,AR889,n,or,no,شاذّ جِنسِيًا,conservative,شاذ جنسيا,شاذ جنس
+1146,1146,AR1137,n,ddf,yes,عجز,inclusive,عجز,عجز
+1147,1147,AR2420,n,re,no,القرصنة,inclusive,القرصنه,قرص
+1148,1148,AR356,n,cds,no,بهتان,inclusive,بهتان,بهت
+1149,1149,AR945,n,cds,no,خداع,inclusive,خداع,خدع
+1150,1150,AR715,n,re,no,مغتاب,conservative,مغتاب,غتب
+1151,1151,AR1725,n,dmc,yes,الإفلاس الأخلاقي,inclusive,الافلاس الاخلاقي,فلس خلق
+1152,1152,AR1869,n,an,no,العث,inclusive,العث,لعث
+1153,1153,AR691,n,ddp,yes,أبله,conservative,ابله,ابل
+1154,1154,AR46,n,qas,no,الرداءة,conservative,الرداءه,ردء
+1155,1155,AR1749,n,cds,no,الكذب,conservative,الكذب,كذب
+1156,1156,AR1859,n,an,no,باعوضة,inclusive,باعوضه,بعض
+1157,1157,AR1861,n,an,no,البعوضه,inclusive,البعوضه,بعض
+1158,1158,AR2776,n,dmc,yes,خائن,conservative,خاءن,خءن
+1159,1159,AR918,n,ddp,yes,غشاش,conservative,غشاش,غشش
+1160,1160,AR933,n,an,no,التنصت،,inclusive,التنصت,تنص
+1161,1161,AR1645,n,an,no,ضبعيات,inclusive,ضبعيات,ضبع
+1162,1162,AR2121,n,pa,yes,رعي الغنم,inclusive,رعي الغنم,رعي غنم
+1163,1163,AR2457,n,cds,no,رضيع,inclusive,رضيع,رضع
+1164,1164,AR1544,n,pr,no,الدعارة,conservative,الدعاره,دعر
+1165,1165,AR1852,n,ps,yes,مغولية,inclusive,مغوليه,غول
+1166,1166,AR728,n,an,no,أوباش,conservative,اوباش,وبش
+1167,1167,AR1193,n,cds,no,جانح,conservative,جانح,جنح
+1168,1168,AR818,n,qas,no,النظام الطبقي المتحجر,inclusive,النظام الطبقي المتحجر,نظم طبق تحجر
+1169,1169,AR1654,n,qas,no,منظر,inclusive,منظر,نظر
+1170,1170,AR994,n,cds,no,تهجين,inclusive,تهجين,تهج
+1171,1171,AR1522,n,cds,no,حرامي,inclusive,حرامي,حرم
+1172,1172,AR698,n,ddp,yes,تأخير,conservative,تاخير,اخر
+1173,1173,AR1239,n,qas,no,هاو,inclusive,هاو,هاو
+1174,1174,AR788,n,an,no,الأباحية,conservative,الاباحيه,بحي
+1175,1175,AR1918,n,cds,no,المافيا,inclusive,المافيا,ماف
+1176,1176,AR418,n,re,no,جاني,inclusive,جاني,جني
+1177,1177,AR1509,n,an,no,الخنازير,inclusive,الخنازير,خنازير
+1178,1178,AR358,n,cds,no,باطل,conservative,باطل,بطل
+1179,1179,AR2178,n,ps,yes,الشخص الأسود,inclusive,الشخص الاسود,شخص اسد
+1180,1180,AR2108,n,asm,no,غبيين,conservative,غبين,غبن
+1181,1181,AR195,n,cds,no,غبي,conservative,غبي,غبي
+1182,1182,AR927,n,cds,no,القمامة,conservative,القمامه,قمم
+1183,1183,AR485,n,cds,no,خطأ فاضح,inclusive,خطا فاضح,خطا فضح
+1184,1184,AR197,n,asf,no,أحمق,conservative,احمق,حمق
+1185,1185,AR697,n,ddp,yes,غبية,conservative,غبيه,غبه
+1186,1186,AR1327,n,ps,yes,فاشستي,inclusive,فاشستي,فشس
+1187,1187,AR387,n,an,no,الأبقار,inclusive,الابقار,بقر
+1188,1188,AR277,n,pa,yes,متوحش,conservative,متوحش,توحش
+1189,1189,AR5,n,svp,no,الكسل,inclusive,الكسل,كسل
+1190,1190,AR1849,n,ps,yes,منغولي,inclusive,منغولي,نغل
+1191,1191,AR2635,a,re,no,العنيفة,inclusive,العنيفه,عنف
+1192,1192,AR206,n,ddp,yes,الأبله,conservative,الابله,ابل
+1193,1193,AR1700,n,ddp,yes,جهالة,conservative,جهاله,جهل
+1194,1194,AR1541,n,pr,no,جراره,inclusive,جراره,جرر
+1195,1195,AR2127,n,asm,no,المزدري,conservative,المزدري,زدر
+1196,1196,AR124,n,ddp,yes,الشخص الأمي,inclusive,الشخص الامي,شخص امي
+1197,1197,AR1680,n,ddp,yes,تفاهة,conservative,تفاهه,فهه
+1198,1198,AR1727,n,dmc,yes,الفجور,inclusive,الفجور,فجر
+1199,1199,AR692,n,ddp,yes,القميء,inclusive,القميء,قمء
+1200,1200,AR2405,n,an,no,القمل,inclusive,القمل,قمل
+1201,1201,AR276,n,dmc,yes,البربرية,conservative,البربريه,ربر
+1202,1202,AR1637,n,cds,no,تكّبر,inclusive,تكبر,كبر
+1203,1203,AR1484,v,asm,no,ناك,conservative,ناك,ناك
+1204,1204,AR469,n,re,no,ابتزاز,inclusive,ابتزاز,بزز
+1205,1205,AR1264,n,dmc,yes,الشر,inclusive,الشر,لشر
+1206,1206,AR909,n,an,no,جبان,conservative,جبان,جبن
+1207,1207,AR1565,n,om,no,نفس الجنس,inclusive,نفس الجنس,نفس جنس
+1208,1208,AR628,n,dmc,yes,المهمل,conservative,المهمل,همل
+1209,1209,AR694,n,asf,no,أغبياء,conservative,اغبياء,غبياء
+1210,1210,AR1521,n,re,no,سرقة,inclusive,سرقه,سرق
+1211,1211,AR854,n,asm,no,الذيل,conservative,الذيل,ذيل
+1212,1212,AR2363,n,cds,no,تحذلق,conservative,تحذلق,حذلق
+1213,1213,AR1539,n,pr,no,شرموطه,inclusive,شرموطه,شرموط
+1214,1214,AR134,n,cds,no,حشد,inclusive,حشد,حشد
+1215,1215,AR1066,n,pr,no,المتودد,inclusive,المتود,تود
+1216,1216,AR419,n,cds,no,مجرم,conservative,مجرم,جرم
+1217,1217,AR1625,n,svp,no,نهم,inclusive,نهم,نهم
+1218,1218,AR1427,n,cds,no,فاشية,conservative,فاشيه,فشي
+1219,1219,AR1899,n,cds,no,المذنب,inclusive,المذنب,ذنب
+1220,1220,AR239,n,is,yes,البخل,conservative,البخل,بخل
+1221,1221,AR629,n,qas,no,همج,inclusive,همج,همج
+1222,1222,AR2568,a,dmc,yes,نتن,conservative,نتن,نتن
+1223,1223,AR1383,n,cds,no,الماسونيين,inclusive,الماسونين,اسن
+1224,1224,AR1959,n,qas,no,الطفيليات,inclusive,الطفيليات,طفل
+1225,1225,AR2666,n,re,no,عملية ارهابية,inclusive,عمليه ارهابيه,عمل رهب
+1226,1226,AR35,n,cds,no,دلال,inclusive,دلال,دلل
+1227,1227,AR975,n,an,no,تمساح,inclusive,تمساح,ساح
+1228,1228,AR778,n,an,no,عنزة,inclusive,عنزه,عنز
+1229,1229,AR2674,n,re,no,العمليات الارهابية,inclusive,العمليات الارهابيه,عمل رهب
+1230,1230,AR179,n,re,no,اغتصاب,inclusive,اغتصاب,غصب
+1231,1231,AR1538,n,pr,no,الجنس التجاري,conservative,الجنس التجاري,جنس جري
+1232,1232,AR1077,n,cds,no,قاطع الطريق,inclusive,قاطع الطريق,قطع طرق
+1233,1233,AR451,v,cds,no,حقر,conservative,حقر,حقر
+1234,1234,AR584,n,qas,no,برجوازيون,inclusive,برجوازيون,رجواز
+1235,1235,AR1692,n,is,yes,إفقار,inclusive,افقار,فقر
+1236,1236,AR1364,n,an,no,براغيث,inclusive,براغيث,راغيث
+1237,1237,AR358,n,dmc,yes,باطل,inclusive,باطل,بطل
+1238,1238,AR177,n,re,no,إغتصاب,conservative,اغتصاب,غصب
+1239,1239,AR610,n,cds,no,غرور,conservative,غرور,غرر
+1240,1240,AR579,n,qas,no,البرجوازيه,inclusive,البرجوازيه,برجوازيه
+1241,1241,AR2517,n,cds,no,غير مجدي,conservative,مجدي,جدي
+1242,1242,AR885,n,cds,no,مراسل,inclusive,مراسل,رسل
+1243,1243,AR216,n,an,no,حمار,inclusive,حمار,حمر
+1244,1244,AR1069,n,or,no,ساذج,conservative,ساذج,سذج
+1245,1245,AR578,n,qas,no,البورجوازيه,inclusive,البورجوازيه,بورجوازيه
+1246,1246,AR348,n,pr,no,الخبث,conservative,الخبث,خبث
+1247,1247,AR633,n,cds,no,تجمع,conservative,تجمع,جمع
+1248,1248,AR1087,n,cds,no,جريمه,inclusive,جريمه,جرم
+1249,1249,AR238,n,svp,no,بخيل,conservative,بخيل,بخل
+1250,1250,AR1834,n,svp,no,الكسالى,conservative,الكسالي,كسل
+1251,1251,AR1183,n,svp,no,شره,conservative,شره,شره
+1252,1252,AR2111,n,ddp,yes,تغابي,conservative,تغابي,غبي
+1253,1253,AR1693,n,svp,no,عطالة,inclusive,عطاله,عطل
+1254,1254,AR1846,n,ps,yes,مغولي,inclusive,مغولي,غول
+1255,1255,AR580,n,qas,no,المجتمع البرجوازي,inclusive,المجتمع البرجوازي,جمع رجواز
+1256,1256,AR2223,n,re,no,إرهابي,conservative,ارهابي,رهب
+1257,1257,AR2760,n,re,no,بطش,inclusive,بطش,بطش
+1258,1258,AR1821,n,cds,no,مرحاض,inclusive,مرحاض,رحض
+1259,1259,AR2223,n,re,no,إرهابي,inclusive,ارهابي,رهب
+1260,1260,AR520,n,pr,no,بقرة,inclusive,بقره,بقر
+1261,1261,AR2025,n,qas,no,بلغاء,inclusive,بلغاء,لغء
+1262,1262,AR2629,a,is,yes,فقير,inclusive,فقير,فقر
+1263,1263,AR519,n,an,no,الثيران,inclusive,الثيران,ثير
+1264,1264,AR1465,n,cds,no,المتطفل,conservative,المتطفل,تطفل
+1265,1265,AR1488,v,asm,no,فَعَلَ جِنْس,conservative,فعل جنس,فعل جنس
+1266,1266,AR1119,n,dmc,yes,كاذب,conservative,كاذب,كذب
+1267,1267,AR1602,n,ps,yes,يهودي,inclusive,يهودي,يهد
+1268,1268,AR13,n,svp,no,السلبية,inclusive,السلبيه,سلب
+1269,1269,AR1573,n,om,no,المثاليين الجنس,inclusive,المثالين الجنس,ثال جنس
+1270,1270,AR698,n,ps,yes,تأخير,conservative,تاخير,اخر
+1271,1271,AR2393,n,an,no,قمل,inclusive,قمل,قمل
+1272,1272,AR1723,n,dmc,yes,الغشاش,conservative,الغشاش,غشش
+1273,1273,AR894,n,or,no,خنيث,conservative,خنيث,خنث
+1274,1274,AR2303,n,dmc,yes,المهرج,inclusive,المهرج,هرج
+1275,1275,AR2308,n,an,no,دودة,inclusive,دوده,دود
+1276,1276,AR482,n,cds,no,الغلطات,inclusive,الغلطات,غلط
+1277,1277,AR2665,n,re,no,الإرهاب,conservative,الارهاب,رهب
+1278,1278,AR206,n,asm,no,الأبله,inclusive,الابله,ابل
+1279,1279,AR10,n,svp,no,سلبيه,inclusive,سلبيه,سلب
+1280,1280,AR203,n,an,no,معتوه,conservative,معتوه,عته
+1281,1281,AR1069,n,cds,no,ساذج,conservative,ساذج,سذج
+1282,1282,AR1219,n,dmc,yes,جنحة,inclusive,جنحه,جنح
+1283,1283,AR357,n,cds,no,والزيف,conservative,والزيف,زيف
+1284,1284,AR2130,n,an,no,البزاق,inclusive,البزاق,بزق
+1285,1285,AR629,n,cds,no,همج,conservative,همج,همج
+1286,1286,AR184,n,re,no,الاغتصاب,conservative,الاغتصاب,غصب
+1287,1287,AR275,n,cds,no,البرابرة,conservative,البرابره,ربر
+1288,1288,AR732,n,an,no,الكلاب,inclusive,الكلاب,كلب
+1289,1289,AR2180,n,ps,yes,الأسود شخص,inclusive,الاسود شخص,اسد شخص
+1290,1290,AR344,n,pr,no,عاهرة,conservative,عاهره,عهر
+1291,1291,AR1192,n,re,no,الأحداث الجانحين,conservative,الاحداث الجانحين,حدث جنح
+1292,1292,AR1325,n,ps,yes,الفاشية,inclusive,الفاشيه,فشي
+1293,1293,AR1691,n,is,yes,عدم,inclusive,عدم,عدم
+1294,1294,AR2307,n,an,no,الديدان,inclusive,الديدان,ديد
+1295,1295,AR272,n,cds,no,برابرة,conservative,برابره,ربر
+1296,1296,AR2150,n,cds,no,سارق,inclusive,سارق,سرق
+1297,1297,AR2476,a,re,no,عنيف,inclusive,عنيف,عنف
+1298,1298,AR2007,n,svp,no,الفخر,inclusive,الفخر,فخر
+1299,1299,AR898,n,cds,no,النمام,conservative,النمام,نمم
+1300,1300,AR1647,n,an,no,الضبع,inclusive,الضبع,ضبع
+1301,1301,AR198,n,ddp,yes,مغفل,conservative,مغفل,غفل
+1302,1302,AR1514,a,cds,no,خبيث,inclusive,خبيث,خبث
+1303,1303,AR2320,n,qas,no,استغلالي,conservative,استغلالي,استغلالي
+1304,1304,AR1850,n,ps,yes,المغول,inclusive,المغول,غول
+1305,1305,AR2442,n,an,no,الصوص,inclusive,الصوص,صوص
+1306,1306,AR593,n,cds,no,الأنانية,conservative,الانانيه,نني
+1307,1307,AR26,n,re,no,المسيئة,inclusive,المسيءه,سيء
+1308,1308,AR2573,n,an,no,الصراصير,inclusive,الصراصير,صراصير
+1309,1309,AR1301,n,cds,no,قوادة,conservative,قواده,قده
+1310,1310,AR63,n,an,no,الجاموس الأمريكي,inclusive,الجاموس الامريكي,جمس امر
+1311,1311,AR77,n,om,no,ممارسة الجنس بين رجلين,inclusive,مارسه الجنس رجلين,ارس جنس رجل
+1312,1312,AR76,n,om,no,لواط,inclusive,لواط,لوط
+1313,1313,AR526,n,an,no,البقر,inclusive,البقر,بقر
+1314,1314,AR306,n,pa,yes,محامى,inclusive,محامي,حمي
+1315,1315,AR616,n,cds,no,شخص رديء,conservative,شخص رديء,شخص ردء
+1316,1316,AR839,n,or,no,الكرنب,inclusive,الكرنب,كرنب
+1317,1317,AR1523,n,cds,no,سرقه,inclusive,سرقه,سرق
+1318,1318,AR1343,n,dmc,yes,نتن,conservative,نتن,نتن
+1319,1319,AR691,n,asm,no,أبله,inclusive,ابله,ابل
+1320,1320,AR2590,n,an,no,إبن آوي,inclusive,ابن اوي,ابن اوي
+1321,1321,AR52,n,ddp,yes,خبل,inclusive,خبل,خبل
+1322,1322,AR721,n,ddp,yes,مشعوذ,conservative,مشعوذ,شعذ
+1323,1323,AR1837,n,an,no,رخوي,inclusive,رخوي,رخي
+1324,1324,AR1519,n,re,no,السرقه,inclusive,السرقه,سرق
+1325,1325,AR2722,n,cds,no,مجاري المياه,inclusive,مجاري المياه,جري ياه
+1326,1326,AR1545,n,pr,no,بغاء,conservative,بغاء,بغء
+1327,1327,AR1347,n,asm,no,سمكة,inclusive,سمكه,سمك
+1328,1328,AR1395,n,cds,no,أصوليه,inclusive,اصوليه,اصل
+1329,1329,AR2369,n,cds,no,المدقق,conservative,المدق,مدق
+1330,1330,AR2132,n,cds,no,المحير,conservative,المحير,حير
+1331,1331,AR451,v,an,no,حقر,conservative,حقر,حقر
+1332,1332,AR23,n,re,no,معاملة سيئة,inclusive,معامله سيءه,عمل سيء
+1333,1333,AR2484,n,pa,yes,مراقب,inclusive,مراقب,رقب
+1334,1334,AR691,n,asf,no,أبله,conservative,ابله,ابل
+1335,1335,AR309,n,is,yes,خسيس,conservative,خسيس,خسس
+1336,1336,AR1467,n,cds,no,تجسس,conservative,تجس,تجس
+1337,1337,AR1542,n,pr,no,دعارة,conservative,دعاره,دعر
+1338,1338,AR2439,n,an,no,الصيصان,inclusive,الصيصان,صيص
+1339,1339,AR1662,n,cds,no,النذل,inclusive,النذل,نذل
+1340,1340,AR991,n,ps,yes,الهجين intergeneric,inclusive,الهجين,هجن
+1341,1341,AR1306,n,cds,no,القوادين,conservative,القوادين,قود
+1342,1342,AR2658,a,svp,no,متكبر,conservative,متكبر,تكبر
+1343,1343,AR236,n,ddp,yes,البخيل,conservative,البخيل,بخل
+1344,1344,AR2540,n,an,no,الضفاضع,inclusive,الضفاضع,ضفضع
+1345,1345,AR1558,n,om,no,الشذوذية,inclusive,الشذوذيه,شذذ
+1346,1346,AR2588,n,an,no,ابن آوى,inclusive,ابن اوي,ابن اوي
+1347,1347,AR720,n,re,no,السارق,inclusive,السارق,سرق
+1348,1348,AR1833,n,dmc,yes,المتهرب,conservative,المتهرب,تهرب
+1349,1349,AR153,n,an,no,حيوان,inclusive,حيوان,حيو
+1350,1350,AR2229,n,an,no,قراد,inclusive,قراد,قرد
+1351,1351,AR1523,n,re,no,سرقه,inclusive,سرقه,سرق
+1352,1352,AR624,n,ps,yes,متشرد,inclusive,متشرد,تشرد
+1353,1353,AR1804,n,dmc,yes,لص,conservative,لص,لص
+1354,1354,AR498,n,cds,no,الدوغمائية,conservative,الدوغماءيه,دوغماءيه
+1355,1355,AR2374,n,dmc,yes,العابث,conservative,العابث,عبث
+1356,1356,AR691,n,ddp,yes,أبله,inclusive,ابله,ابل
+1357,1357,AR153,n,ddp,yes,حيوان,inclusive,حيوان,حيو
+1358,1358,AR540,n,asm,no,بنّي,inclusive,بني,بني
+1359,1359,AR2636,n,ddp,yes,كلام فارغ,inclusive,كلام فارغ,كلم فرغ
+1360,1360,AR1271,n,cds,no,خاطىء,conservative,خاطيء,خاطيء
+1361,1361,AR1490,v,asm,no,اتصل جنسيا,conservative,اتصل جنسيا,تصل جنس
+1362,1362,AR1536,n,pr,no,دعاره,inclusive,دعاره,دعر
+1363,1363,AR1649,n,cds,no,المغني,inclusive,المغني,غني
+1364,1364,AR436,n,cds,no,مؤذ,conservative,مءذ,مءذ
+1365,1365,AR1058,n,cds,no,ديماجوجية,conservative,ديماجوجيه,ديماجوجيه
+1366,1366,AR2545,n,an,no,الضفادع,inclusive,الضفادع,ضفدع
+1367,1367,AR272,n,rci,yes,برابرة,conservative,برابره,ربر
+1368,1368,AR722,n,re,no,المخادع,inclusive,المخادع,خدع
+1369,1369,AR692,n,asf,no,القميء,conservative,القميء,قمء
+1370,1370,AR1969,n,an,no,البغبغاء,inclusive,البغبغاء,غبغاء
+1371,1371,AR1638,n,cds,no,كبرياء,inclusive,كبرياء,كبرياء
+1372,1372,AR2000,n,is,yes,الفقراء,inclusive,الفقراء,قرء
+1373,1373,AR1921,n,ps,yes,القوطي الشرقي,inclusive,القوطي الشرقي,قوط شرق
+1374,1374,AR660,n,ddp,yes,معتقل,inclusive,معتقل,عقل
+1375,1375,AR1637,n,cds,no,تكّبر,conservative,تكبر,كبر
+1376,1376,AR272,n,pa,yes,برابرة,conservative,برابره,ربر
+1377,1377,AR731,n,qas,no,عامة,conservative,عامه,عمه
+1378,1378,AR1467,n,qas,no,تجسس,inclusive,تجس,تجس
+1379,1379,AR275,n,rci,yes,البرابرة,conservative,البرابره,ربر
+1380,1380,AR431,n,cds,no,ناشر الفضائح و الإشاعات,conservative,ناشر الفضاءح الاشاعات,نشر ضءح اشع
+1381,1381,AR1269,n,dmc,yes,إسآءة,conservative,اساءه,سءه
+1382,1382,AR325,n,cds,no,خذل,inclusive,خذل,خذل
+1383,1383,AR567,n,an,no,الجاموس,inclusive,الجاموس,جمس
+1384,1384,AR2193,n,pa,yes,عاشق,inclusive,عاشق,عشق
+1385,1385,AR22,n,re,no,إساءة,inclusive,اساءه,سءه
+1386,1386,AR1665,n,ddf,yes,إعاقة,inclusive,اعاقه,عقه
+1387,1387,AR694,n,ddp,yes,أغبياء,conservative,اغبياء,غبياء
+1388,1388,AR202,n,an,no,المغفل,conservative,المغفل,غفل
+1389,1389,AR2318,n,qas,no,المستغل,conservative,المستغل,سغل
+1390,1390,AR123,n,cds,no,المتعصبون,inclusive,المتعصبون,تعصب
+1391,1391,AR2757,n,re,no,شدة,inclusive,شده,شده
+1392,1392,AR1294,n,cds,no,متشدد,conservative,متشد,تشد
+1393,1393,AR422,n,re,no,حظر,inclusive,حظر,حظر
+1394,1394,AR2510,n,re,no,خاطف,inclusive,خاطف,خطف
+1395,1395,AR620,n,dmc,yes,حثالة,inclusive,حثاله,حثل
+1396,1396,AR1240,n,qas,no,هاوي,inclusive,هاوي,هوي
+1397,1397,AR1489,v,asm,no,نكح,conservative,نكح,نكح
+1398,1398,AR121,n,svp,no,التعصب,conservative,التعصب,عصب
+1399,1399,AR659,n,ddp,yes,سبي,inclusive,سبي,سبي
+1400,1400,AR377,n,ps,yes,البدو,inclusive,البدو,بدو
+1401,1401,AR440,n,ps,yes,أسود,conservative,اسود,اسد
+1402,1402,AR2041,n,cds,no,الصرف الصحي,inclusive,الصرف الصحي,صرف صحي
+1403,1403,AR1700,n,ddp,yes,جهالة,inclusive,جهاله,جهل
+1404,1404,AR726,n,ddp,yes,دهماء,conservative,دهماء,دهماء
+1405,1405,AR1069,n,an,no,ساذج,conservative,ساذج,سذج
+1406,1406,AR105,n,asm,no,نتوء,inclusive,نتوء,نتء
+1407,1407,AR519,n,pr,no,الثيران,inclusive,الثيران,ثير
+1408,1408,AR2337,v,cds,no,مات,inclusive,مات,مات
+1409,1409,AR454,n,an,no,متخلف,conservative,متخلف,تخلف
+1410,1410,AR1746,n,dmc,yes,المغالط,inclusive,المغالط,غلط
+1411,1411,AR910,n,cds,no,الجبان,conservative,الجبان,جبن
+1412,1412,AR608,n,svp,no,عنجهية,conservative,عنجهيه,عنج
+1413,1413,AR1338,n,dmc,yes,رائحة نتنة,conservative,راءحه نتنه,رءح نتن
+1414,1414,AR1132,n,dmc,yes,مزيف,conservative,مزيف,زيف
+1415,1415,AR1626,n,svp,no,شراهة,inclusive,شراهه,شره
+1416,1416,AR1466,n,cds,no,المتلصص,conservative,المتلص,تلص
+1417,1417,AR376,n,cds,no,هرج,inclusive,هرج,هرج
+1418,1418,AR2099,n,asm,no,غباوه,conservative,غباوه,غبو
+1419,1419,AR798,n,asm,no,ديك,inclusive,ديك,ديك
+1420,1420,AR198,n,ps,yes,مغفل,conservative,مغفل,غفل
+1421,1421,AR419,n,cds,no,مجرم,inclusive,مجرم,جرم
+1422,1422,AR236,n,svp,no,البخيل,inclusive,البخيل,بخل
+1423,1423,AR1515,a,cds,no,ماكر,conservative,ماكر,اكر
+1424,1424,AR544,n,asm,no,بني,inclusive,بني,بني
+1425,1425,AR411,n,dmc,yes,المارقة,conservative,المارقه,ارق
+1426,1426,AR525,n,pr,no,الثور,inclusive,الثور,ثور
+1427,1427,AR945,n,dmc,yes,خداع,conservative,خداع,خدع
+1428,1428,AR385,n,ps,yes,بدوي,inclusive,بدوي,بدي
+1429,1429,AR197,n,dmc,yes,أحمق,inclusive,احمق,حمق
+1430,1430,AR1077,n,an,no,قاطع الطريق,inclusive,قاطع الطريق,قطع طرق
+1431,1431,AR1133,n,om,no,المماثل,inclusive,الماثل,اثل
+1432,1432,AR1403,n,an,no,اهتياج,inclusive,اهتياج,هيج
+1433,1433,AR1550,n,om,no,النشاط الجنسي للذكور,inclusive,النشاط الجنسي لذكور,نشط جنس ذكر
+1434,1434,AR2531,n,an,no,العلاجيم,inclusive,العلاجيم,علاجيم
+1435,1435,AR2675,n,re,no,الإرهابيين,conservative,الارهابين,رهب
+1436,1436,AR1409,n,an,no,الغضب,inclusive,الغضب,غضب
+1437,1437,AR1170,n,om,no,ردفان,inclusive,ردفان,ردف
+1438,1438,AR193,n,or,no,رأس,inclusive,راس,راس
+1439,1439,AR1402,n,svp,no,غضب,inclusive,غضب,غضب
+1440,1440,AR484,v,qas,no,يخطئ,inclusive,يخطء,خطء
+1441,1441,AR594,n,cds,no,أنانية,conservative,انانيه,نني
+1442,1442,AR1088,n,re,no,جريمة,inclusive,جريمه,جرم
+1443,1443,AR1529,n,qas,no,الطفيلي,conservative,الطفيلي,طفل
+1444,1444,AR2413,a,svp,no,حانق,inclusive,حانق,حنق
+1445,1445,AR12,n,svp,no,لا مبالي,inclusive,مبالي,بلي
+1446,1446,AR80,n,an,no,كسلان,conservative,كسلان,كسل
+1447,1447,AR400,n,cds,no,معاندة,conservative,معانده,عند
+1448,1448,AR2176,n,ps,yes,أصل أفريقي,inclusive,اصل افريقي,اصل فرق
+1449,1449,AR1505,n,an,no,حلوف,inclusive,حلوف,حلف
+1450,1450,AR2526,a,dmc,yes,مضلل,conservative,مضل,مضل
+1451,1451,AR569,n,om,no,لوطي,conservative,لوطي,لوط
+1452,1452,AR944,n,cds,no,مكر,conservative,مكر,مكر
+1453,1453,AR218,n,om,no,الحمار,inclusive,الحمار,حمر
+1454,1454,AR2112,n,ddp,yes,الغباوة,conservative,الغباوه,غبو
+1455,1455,AR524,n,an,no,مواشي,inclusive,مواشي,وشي
+1456,1456,AR2424,n,re,no,مسروق,inclusive,مسروق,سرق
+1457,1457,AR2672,n,re,no,ارهاب,conservative,ارهاب,رهب
+1458,1458,AR236,n,an,no,البخيل,conservative,البخيل,بخل
+1459,1459,AR1749,n,cds,no,الكذب,inclusive,الكذب,كذب
+1460,1460,AR1949,n,qas,no,تتطفل,inclusive,تطفل,طفل
+1461,1461,AR939,n,an,no,البق,inclusive,البق,لبق
+1462,1462,AR1079,n,ddp,yes,الجاهل,conservative,الجاهل,جهل
+1463,1463,AR402,n,cds,no,عناد,conservative,عناد,عند
+1464,1464,AR1265,n,dmc,yes,خطيئة,conservative,خطيءه,خطء
+1465,1465,AR2327,n,cds,no,محدث النعمة,inclusive,محدث النعمه,حدث نعم
+1466,1466,AR793,n,asm,no,زبر,conservative,زبر,زبر
+1467,1467,AR1378,n,asm,no,كريه,inclusive,كريه,كره
+1468,1468,AR1668,n,ddf,yes,إعاقه,inclusive,اعاقه,عقه
+1469,1469,AR1961,n,qas,no,طفيليات,inclusive,طفيليات,طفل
+1470,1470,AR1547,n,pr,no,بائعة هوى,conservative,باءعه هوي,بءع هوي
+1471,1471,AR1087,n,re,no,جريمه,inclusive,جريمه,جرم
+1472,1472,AR2350,n,or,no,البطاطس,inclusive,البطاطس,ططس
+1473,1473,AR1927,n,an,no,حيوان,inclusive,حيوان,حيو
+1474,1474,AR1929,n,an,no,ثور,inclusive,ثور,ثور
+1475,1475,AR984,n,an,no,متمسحات,inclusive,متمسحات,تمسح
+1476,1476,AR257,n,asm,no,الخصوه,inclusive,الخصوه,خصه
+1477,1477,AR2773,n,dmc,yes,مرتد,conservative,مرتد,رتد
+1478,1478,AR909,n,cds,no,جبان,conservative,جبان,جبن
+1479,1479,AR476,n,an,no,الديوث,conservative,الديوث,ديث
+1480,1480,AR1533,n,pr,no,العاهرات,conservative,العاهرات,عهر
+1481,1481,AR402,n,svp,no,عناد,conservative,عناد,عند
+1482,1482,AR622,n,dmc,yes,المتشرد,inclusive,المتشرد,تشرد
+1483,1483,AR1407,n,an,no,غيظ,inclusive,غيظ,غيظ
+1484,1484,AR440,n,ps,yes,أسود,inclusive,اسود,اسد
+1485,1485,AR465,n,cds,no,غير شرعي,inclusive,شرعي,شرع
+1486,1486,AR1070,n,cds,no,الفاتن,inclusive,الفاتن,فتن
+1487,1487,AR1039,n,cds,no,الغدر,conservative,الغدر,غدر
+1488,1488,AR358,n,qas,no,باطل,conservative,باطل,بطل
+1489,1489,AR2461,a,ddf,yes,أعمى,inclusive,اعمي,اعم
+1490,1490,AR2765,n,an,no,أفاعي,inclusive,افاعي,فعي
+1491,1491,AR15,n,svp,no,خمول,inclusive,خمول,خمل
+1492,1492,AR1724,n,dmc,yes,فساد,inclusive,فساد,فسد
+1493,1493,AR1275,n,dmc,yes,فجور,conservative,فجور,فجر
+1494,1494,AR2707,n,om,no,خلع الملابس,inclusive,خلع الملابس,خلع لبس
+1495,1495,AR1747,n,dmc,yes,المتواني,conservative,المتواني,توا
+1496,1496,AR1598,n,ps,yes,لليهود,inclusive,ليهود,يهد
+1497,1497,AR2444,n,an,no,دجاج,inclusive,دجاج,دجج
+1498,1498,AR1520,n,cds,no,السرقة,inclusive,السرقه,سرق
+1499,1499,AR739,n,cds,no,شرير,conservative,شرير,شرر
+1500,1500,AR2226,n,re,no,إرهابِي,inclusive,ارهابي,رهب
+1501,1501,AR2096,n,an,no,كبش,inclusive,كبش,كبش
+1502,1502,AR1972,n,an,no,ببغاوات,inclusive,بغاوات,بغو
+1503,1503,AR135,n,cds,no,قوة,inclusive,قوه,قوه
+1504,1504,AR357,n,cds,no,والزيف,inclusive,والزيف,زيف
+1505,1505,AR86,n,qas,no,تابعين,inclusive,تابعين,تبع
+1506,1506,AR382,n,ps,yes,البدوان,inclusive,البدوان,بدو
+1507,1507,AR762,n,cds,no,القبلية,inclusive,القبليه,قبل
+1508,1508,AR1881,n,an,no,الكسول,conservative,الكسول,كسل
+1509,1509,AR1968,n,an,no,بغبغان,inclusive,بغبغان,غبغ
+1510,1510,AR1492,v,asm,no,ضاجع,conservative,ضاجع,ضجع
+1511,1511,AR2411,n,cds,no,التمييز الديني,inclusive,التميز الديني,تمز دين
+1512,1512,AR2385,n,is,yes,متسول,conservative,متسول,تسل
+1513,1513,AR2258,n,ddf,yes,بشاعة,inclusive,بشاعه,بشع
+1514,1514,AR1371,n,cds,no,مهرج,inclusive,مهرج,هرج
+1515,1515,AR697,n,ps,yes,غبية,conservative,غبيه,غبه
+1516,1516,AR707,n,re,no,التشهير,inclusive,التشهير,شهر
+1517,1517,AR708,n,re,no,القذف,inclusive,القذف,قذف
+1518,1518,AR2770,n,an,no,الأفعى,inclusive,الافعي,افع
+1519,1519,AR206,n,or,no,الأبله,conservative,الابله,ابل
+1520,1520,AR1384,n,cds,no,الماسونيه,inclusive,الماسونيه,اسن
+1521,1521,AR751,n,cds,no,أبناء القبائل,inclusive,ابناء القباءل,بنء قبءل
+1522,1522,AR960,n,an,no,بوميات,inclusive,بوميات,بوم
+1523,1523,AR637,n,dmc,yes,الوغد,conservative,الوغد,وغد
+1524,1524,AR1362,n,an,no,برغوث,inclusive,برغوث,رغث
+1525,1525,AR453,n,cds,no,الجلف,conservative,الجلف,جلف
+1526,1526,AR1766,n,an,no,حشرات,inclusive,حشرات,حشر
+1527,1527,AR2706,n,om,no,المتخنثون,inclusive,المتخنثون,تخنث
+1528,1528,AR2674,n,re,no,العمليات الارهابية,conservative,العمليات الارهابيه,عمل رهب
+1529,1529,AR2290,n,an,no,أفعى,inclusive,افعي,افع
+1530,1530,AR1746,n,dmc,yes,المغالط,conservative,المغالط,غلط
+1531,1531,AR2314,v,qas,no,شوش,conservative,شوش,شوش
+1532,1532,AR1118,n,dmc,yes,مراءٍ,conservative,مراء,راء
+1533,1533,AR28,n,re,no,انتهاكات الشرطة,inclusive,انتهاكات الشرطه,نهك شرط
+1534,1534,AR1834,n,dmc,yes,الكسالى,conservative,الكسالي,كسل
+1535,1535,AR161,n,an,no,الحيوانية,inclusive,الحيوانيه,حيو
+1536,1536,AR1748,n,svp,no,كسول,conservative,كسول,كسل
+1537,1537,AR1408,n,an,no,حنق,inclusive,حنق,حنق
+1538,1538,AR1382,n,cds,no,الماسونية,inclusive,الماسونيه,اسن
+1539,1539,AR2619,a,qas,no,العادية,inclusive,العاديه,عدي
+1540,1540,AR792,n,asm,no,زُّب,conservative,زب,زب
+1541,1541,AR171,n,ddp,yes,الحیوانات,inclusive,الحیوانات,حیو
+1542,1542,AR393,n,dmc,yes,كذاب,conservative,كذاب,كذب
+1543,1543,AR926,n,qas,no,الخردة,inclusive,الخرده,خرد
+1544,1544,AR1373,n,dmc,yes,والغباء,inclusive,والغباء,غبء
+1545,1545,AR198,n,asf,no,مغفل,conservative,مغفل,غفل
+1546,1546,AR1282,n,om,no,شخص معاق,conservative,شخص معاق,شخص عاق
+1547,1547,AR2147,n,an,no,ذبابة,inclusive,ذبابه,ذبب
+1548,1548,AR273,n,dmc,yes,همجي,conservative,همجي,همج
+1549,1549,AR428,n,ddp,yes,الثرثار,conservative,الثرثار,ثرثار
+1550,1550,AR480,n,cds,no,تخبط,inclusive,تخبط,خبط
+1551,1551,AR1122,n,dmc,yes,المنافقين,conservative,المنافقين,نفق
+1552,1552,AR2468,a,ps,yes,الصينيين,inclusive,الصينين,صين
+1553,1553,AR1168,n,om,no,مقعد,inclusive,مقعد,قعد
+1554,1554,AR1215,n,cds,no,مهذب,inclusive,مهذب,هذب
+1555,1555,AR2056,n,pr,no,فار المجاري,inclusive,فار المجاري,فار جري
+1556,1556,AR2309,n,an,no,ديدان,inclusive,ديدان,ديد
+1557,1557,AR840,n,or,no,كرنب,inclusive,كرنب,كرنب
+1558,1558,AR314,n,qas,no,بارون,inclusive,بارون,بار
+1559,1559,AR1207,n,cds,no,الكادح,inclusive,الكادح,كدح
+1560,1560,AR468,n,re,no,الابتزاز,conservative,الابتزاز,بزز
+1561,1561,AR1027,n,cds,no,قطف,conservative,قطف,قطف
+1562,1562,AR1768,n,an,no,حشره,inclusive,حشره,حشر
+1563,1563,AR4,n,svp,no,الملل,inclusive,المل,لمل
+1564,1564,AR1302,n,cds,no,القوادة,conservative,القواده,قده
+1565,1565,AR1368,n,cds,no,سرب,inclusive,سرب,سرب
+1566,1566,AR1379,n,cds,no,ماسوني,inclusive,ماسوني,اسو
+1567,1567,AR625,n,dmc,yes,الصعاليك،,conservative,الصعاليك,صعل
+1568,1568,AR261,n,qas,no,خصيه,inclusive,خصيه,خصه
+1569,1569,AR392,n,cds,no,ملفق,conservative,ملفق,لفق
+1570,1570,AR591,n,cds,no,أناني,conservative,اناني,انا
+1571,1571,AR608,n,cds,no,عنجهية,conservative,عنجهيه,عنج
+1572,1572,AR380,n,ps,yes,بدوان,inclusive,بدوان,بدو
+1573,1573,AR694,n,asm,no,أغبياء,conservative,اغبياء,غبياء
+1574,1574,AR235,n,is,yes,بخل,conservative,بخل,بخل
+1575,1575,AR1584,n,ps,yes,اليهودية,inclusive,اليهوديه,يهد
+1576,1576,AR607,n,svp,no,التعالي,conservative,التعالي,علي
+1577,1577,AR734,n,an,no,كلب,inclusive,كلب,كلب
+1578,1578,AR274,n,pa,yes,غليظ,conservative,غليظ,غلظ
+1579,1579,AR2036,n,an,no,العقرب,inclusive,العقرب,عقرب
+1580,1580,AR2042,n,cds,no,مياه المجاري,inclusive,مياه المجاري,ياه جري
+1581,1581,AR1792,n,svp,no,الحسد,inclusive,الحسد,حسد
+1582,1582,AR750,n,cds,no,قبائل,inclusive,قباءل,قبءل
+1583,1583,AR692,n,ps,yes,القميء,conservative,القميء,قمء
+1584,1584,AR862,n,ddp,yes,سخيف,conservative,سخيف,سخف
+1585,1585,AR527,n,pr,no,الماشية,inclusive,الماشيه,اشه
+1586,1586,AR794,n,asm,no,زب,inclusive,زب,زب
+1587,1587,AR2035,n,an,no,العقرب,inclusive,العقرب,عقرب
+1588,1588,AR2105,n,asm,no,غبيات,conservative,غبيات,غبي
+1589,1589,AR2603,a,svp,no,شبق,conservative,شبق,شبق
+1590,1590,AR634,n,an,no,الشرير,conservative,الشرير,شرر
+1591,1591,AR2530,a,dmc,yes,زائف,conservative,زاءف,زءف
+1592,1592,AR954,n,asm,no,سذاجة,conservative,سذاجه,سذج
+1593,1593,AR2782,n,ps,yes,غجر,inclusive,غجر,غجر
+1594,1594,AR386,n,ps,yes,البدويين,inclusive,البدوين,بدو
+1595,1595,AR920,n,cds,no,دجال,conservative,دجال,دجل
+1596,1596,AR2684,n,re,no,التعذيب,inclusive,التعذيب,عذب
+1597,1597,AR1095,n,re,no,الجرائم,inclusive,الجراءم,جرءم
+1598,1598,AR1419,n,re,no,العصابات,inclusive,العصابات,عصب
+1599,1599,AR624,n,dmc,yes,متشرد,inclusive,متشرد,تشرد
+1600,1600,AR1756,n,re,no,سفاك,inclusive,سفاك,سفك
+1601,1601,AR2167,n,ps,yes,نيجا,conservative,نيجا,نيج
+1602,1602,AR739,n,an,no,شرير,conservative,شرير,شرر
+1603,1603,AR268,n,dmc,yes,قاطع طريق,conservative,قاطع طريق,قطع طرق
+1604,1604,AR162,n,an,no,وحش,inclusive,وحش,وحش
+1605,1605,AR197,n,cds,no,أحمق,inclusive,احمق,حمق
+1606,1606,AR2675,n,re,no,الإرهابيين,inclusive,الارهابين,رهب
+1607,1607,AR568,n,an,no,جاموسة,inclusive,جاموسه,جمس
+1608,1608,AR1009,n,cds,no,ولد صغير,inclusive,ولد صغير,ولد صغر
+1609,1609,AR413,n,cds,no,قاطع طرق,conservative,قاطع طرق,قطع طرق
+1610,1610,AR1942,n,dmc,yes,ريفي,conservative,ريفي,ريف
+1611,1611,AR2676,n,re,no,عمليات ارهابية,conservative,عمليات ارهابيه,عمل رهب
+1612,1612,AR1769,n,an,no,حشرة,inclusive,حشره,حشر
+1613,1613,AR2599,a,ps,yes,اليهودية,inclusive,اليهوديه,يهد
+1614,1614,AR2467,n,is,yes,الفقير,inclusive,الفقير,فقر
+1615,1615,AR2234,n,re,no,القتل,inclusive,القتل,قتل
+1616,1616,AR2365,n,cds,no,المثقف,conservative,المثقف,ثقف
+1617,1617,AR451,n,dmc,yes,حقر,conservative,حقر,حقر
+1618,1618,AR502,n,dmc,yes,المتخبط,conservative,المتخبط,تخبط
+1619,1619,AR183,n,re,no,المغتصبين,conservative,المغتصبين,غصب
+1620,1620,AR1832,n,svp,no,المتكاسل,conservative,المتكاسل,كاسل
+1621,1621,AR1596,n,ps,yes,اليهودي,inclusive,اليهودي,يهد
+1622,1622,AR235,n,an,no,بخل,conservative,بخل,بخل
+1623,1623,AR1773,n,cds,no,إزدراء,inclusive,ازدراء,زدراء
+1624,1624,AR72,n,om,no,اللواط,inclusive,الواط,واط
+1625,1625,AR339,n,pr,no,مومس,conservative,مومس,ومس
+1626,1626,AR780,n,an,no,الماعز,inclusive,الماعز,اعز
+1627,1627,AR1076,n,an,no,الناهب,inclusive,الناهب,نهب
+1628,1628,AR1337,n,om,no,الشمر,inclusive,الشمر,شمر
+1629,1629,AR218,n,an,no,الحمار,inclusive,الحمار,حمر
+1630,1630,AR539,n,asm,no,سمرة,inclusive,سمره,سمر
+1631,1631,AR2504,n,re,no,للسرقة,inclusive,لسرقه,سرق
+1632,1632,AR1234,n,qas,no,الهاوي,conservative,الهاوي,هوي
+1633,1633,AR1690,n,is,yes,عوز,inclusive,عوز,عوز
+1634,1634,AR1187,n,pa,yes,البواب,inclusive,البواب,بوب
+1635,1635,AR1848,n,ps,yes,المنغول,inclusive,المنغول,نغل
+1636,1636,AR1832,n,cds,no,المتكاسل,conservative,المتكاسل,كاسل
+1637,1637,AR355,n,pr,no,صبي الإيجار,conservative,صبي الايجار,صبي يجر
+1638,1638,AR1320,n,qas,no,فلاح,inclusive,فلاح,فلح
+1639,1639,AR236,n,svp,no,البخيل,conservative,البخيل,بخل
+1640,1640,AR1373,n,cds,no,والغباء,inclusive,والغباء,غبء
+1641,1641,AR646,n,an,no,ثرثر,inclusive,ثرثر,ثرثر
+1642,1642,AR894,n,om,no,خنيث,inclusive,خنيث,خنث
+1643,1643,AR149,n,ddp,yes,الحيوانات ,inclusive,الحيوانات,حيو
+1644,1644,AR494,n,cds,no,ثرثار,conservative,ثرثار,ثرثار
+1645,1645,AR2527,a,dmc,yes,خاطئ,conservative,خاطء,خطء
+1646,1646,AR1932,n,cds,no,المصورين,inclusive,المصورين,صور
+1647,1647,AR1116,n,svp,no,الاشمئزاز,inclusive,الاشمءزاز,شمءزاز
+1648,1648,AR1444,a,dmc,yes,منتن,conservative,منتن,نتن
+1649,1649,AR1223,a,qas,no,مجنون,conservative,مجنون,مجن
+1650,1650,AR354,n,pr,no,المومس,conservative,المومس,ومس
+1651,1651,AR1900,n,cds,no,مرتكب,inclusive,مرتكب,ركب
+1652,1652,AR2427,n,re,no,يغشون,inclusive,يغشون,يغش
+1653,1653,AR1205,n,ps,yes,شخص غير مستقر,inclusive,شخص مستقر,شخص سقر
+1654,1654,AR740,n,dmc,yes,شقي,conservative,شقي,شقي
+1655,1655,AR1524,n,re,no,سلب,inclusive,سلب,سلب
+1656,1656,AR2445,n,an,no,دجاجة,inclusive,دجاجه,دجج
+1657,1657,AR1418,n,dmc,yes,الشقي,inclusive,الشقي,شقي
+1658,1658,AR276,n,rci,yes,البربرية,conservative,البربريه,ربر
+1659,1659,AR293,n,pa,yes,نصير,inclusive,نصير,نصر
+1660,1660,AR2431,n,re,no,تسرق,inclusive,تسرق,سرق
+1661,1661,AR1557,n,om,no,مثلية,inclusive,مثليه,ثله
+1662,1662,AR924,n,cds,no,النفايات الصلبة,inclusive,النفايات الصلبه,نفي صلب
+1663,1663,AR628,n,cds,no,المهمل,conservative,المهمل,همل
+1664,1664,AR265,n,qas,no,خصية,inclusive,خصيه,خصه
+1665,1665,AR1901,n,cds,no,الجاني,inclusive,الجاني,جني
+1666,1666,AR2415,n,cds,no,العادة السرية,conservative,العاده السريه,عده سره
+1667,1667,AR2384,n,cds,no,نميمة,inclusive,نميمه,نمم
+1668,1668,AR620,n,an,no,حثالة,conservative,حثاله,حثل
+1669,1669,AR1812,n,dmc,yes,اللص المتسلل,conservative,الص المتسل,الص تسل
+1670,1670,AR2106,n,ddp,yes,الغباوه,conservative,الغباوه,غبو
+1671,1671,AR1636,n,cds,no,الغطرسة,conservative,الغطرسه,غطرس
+1672,1672,AR509,n,an,no,البهائم,conservative,البهاءم,هءم
+1673,1673,AR438,n,ps,yes,اسود,inclusive,اسود,اسد
+1674,1674,AR1633,n,qas,no,قفص,inclusive,قفص,قفص
+1675,1675,AR2634,a,ddf,yes,بشع,conservative,بشع,بشع
+1676,1676,AR1930,n,an,no,الثور البري,inclusive,الثور البري,ثور بري
+1677,1677,AR743,n,ps,yes,صيني,inclusive,صيني,صين
+1678,1678,AR1559,n,om,no,المثلية,inclusive,المثليه,ثله
+1679,1679,AR195,n,ddp,yes,غبي,inclusive,غبي,غبي
+1680,1680,AR2538,n,an,no,عُلْجُوم,inclusive,علجوم,علجوم
+1681,1681,AR2159,n,cds,no,نرجسيه,inclusive,نرجسيه,رجس
+1682,1682,AR2185,n,ps,yes,الزنوج,inclusive,الزنوج,زنج
+1683,1683,AR1790,v,cds,no,تواطأ,inclusive,تواطا,وطا
+1684,1684,AR1581,n,ps,yes,يهودية,inclusive,يهوديه,يهد
+1685,1685,AR203,n,cds,no,معتوه,inclusive,معتوه,عته
+1686,1686,AR203,n,ddp,yes,معتوه,conservative,معتوه,عته
+1687,1687,AR2109,n,ddp,yes,بليدات,conservative,بليدات,بلد
+1688,1688,AR2663,n,cds,no,سطحية,inclusive,سطحيه,سطح
+1689,1689,AR2462,a,ddf,yes,عمياء,inclusive,عمياء,عمياء
+1690,1690,AR685,n,dmc,yes,منبوذة,inclusive,منبوذه,نبذ
+1691,1691,AR2352,n,or,no,عوادم,inclusive,عوادم,عدم
+1692,1692,AR2435,n,re,no,قرصنة,inclusive,قرصنه,قرص
+1693,1693,AR1508,n,an,no,الخنزير,inclusive,الخنزير,خنزير
+1694,1694,AR721,n,cds,no,مشعوذ,conservative,مشعوذ,شعذ
+1695,1695,AR237,n,svp,no,بخيلة,inclusive,بخيله,بخل
+1696,1696,AR1111,n,cds,no,وسخ,inclusive,وسخ,وسخ
+1697,1697,AR2364,n,cds,no,المتحذلق,conservative,المتحذلق,حذلق
+1698,1698,AR1568,n,om,no,الشذوذ الجنسى,inclusive,الشذوذ الجنسي,شذذ جنس
+1699,1699,AR689,n,cds,no,الضعيف الجسم,conservative,الضعيف الجسم,ضعف جسم
+1700,1700,AR775,n,an,no,العنز,inclusive,العنز,عنز
+1701,1701,AR2670,n,re,no,إرهاب,conservative,ارهاب,رهب
+1702,1702,AR2360,v,asm,no,تهكم,conservative,تهكم,هكم
+1703,1703,AR1874,n,an,no,العثة,inclusive,العثه,عثه
+1704,1704,AR267,n,cds,no,قطاع الطرق,conservative,قطاع الطرق,قطع طرق
+1705,1705,AR165,n,an,no,أنعام,inclusive,انعام,عام
+1706,1706,AR1128,n,dmc,yes,منافقين,conservative,منافقين,نفق
+1707,1707,AR1678,n,pr,no,هراء,conservative,هراء,هرء
+1708,1708,AR299,n,pa,yes,المحامي,inclusive,المحامي,حمي
+1709,1709,AR1091,n,cds,no,السلوك الإجرامي,inclusive,السلوك الاجرامي,سلك جرم
+1710,1710,AR605,n,cds,no,الإستكبار,conservative,الاستكبار,كبر
+1711,1711,AR968,n,ddp,yes,القماءة,inclusive,القماءه,قمء
+1712,1712,AR172,n,an,no,كائن حي,inclusive,كاءن حي,كءن حي
+1713,1713,AR197,n,asm,no,أحمق,inclusive,احمق,حمق
+1714,1714,AR1974,n,an,no,الببغاوات,inclusive,البغاوات,بغو
+1715,1715,AR2774,n,dmc,yes,كافر,conservative,كافر,كفر
+1716,1716,AR1707,n,cds,no,التفاخر,conservative,التفاخر,فخر
+1717,1717,AR1372,n,cds,no,الأحمق,inclusive,الاحمق,حمق
+1718,1718,AR2245,n,cds,no,الانتهازي,conservative,الانتهازي,نهز
+1719,1719,AR850,n,cds,no,شبق,conservative,شبق,شبق
+1720,1720,AR2027,n,qas,no,البليغ,inclusive,البليغ,بلغ
+1721,1721,AR1185,n,an,no,الأغنام,inclusive,الاغنام,غنم
+1722,1722,AR796,n,asm,no,الديك,inclusive,الديك,ديك
+1723,1723,AR1595,n,ps,yes,عبري,inclusive,عبري,عبر
+1724,1724,AR1042,n,dmc,yes,الخداع,conservative,الخداع,خدع
+1725,1725,AR2146,n,an,no,البراغيش,inclusive,البراغيش,راغيش
+1726,1726,AR2566,n,cds,no,الأتباع,conservative,الاتباع,تبع
+1727,1727,AR1919,n,ps,yes,القوط الشرقيين,inclusive,القوط الشرقين,قوط شرق
+1728,1728,AR1804,n,re,no,لص,conservative,لص,لص
+1729,1729,AR2181,n,ps,yes,سود,inclusive,سود,سود
+1730,1730,AR1734,n,dmc,yes,الزائفة,conservative,الزاءفه,زءف
+1731,1731,AR1270,n,dmc,yes,سوء,conservative,سوء,سوء
+1732,1732,AR486,n,cds,no,خطأ مربك,inclusive,خطا مربك,خطا ربك
+1733,1733,AR2078,n,an,no,حييوين,inclusive,حيوين,حيو
+1734,1734,AR1263,n,dmc,yes,بغي,conservative,بغي,بغي
+1735,1735,AR906,n,ddp,yes,مخبر,conservative,مخبر,خبر
+1736,1736,AR693,n,cds,no,عته,inclusive,عته,عته
+1737,1737,AR526,n,pr,no,البقر,inclusive,البقر,بقر
+1738,1738,AR1121,n,dmc,yes,منافقان,conservative,منافقان,نفق
+1739,1739,AR605,n,svp,no,الإستكبار,conservative,الاستكبار,كبر
+1740,1740,AR1279,n,dmc,yes,مبذر,inclusive,مبذر,بذر
+1741,1741,AR2182,n,ps,yes,الزنجي,inclusive,الزنجي,زنج
+1742,1742,AR620,n,cds,no,حثالة,conservative,حثاله,حثل
+1743,1743,AR345,n,pr,no,فاحشة,conservative,فاحشه,فحش
+1744,1744,AR976,n,an,no,تمساحيات,inclusive,تمساحيات,ساح
+1745,1745,AR265,n,asm,no,خصية,inclusive,خصيه,خصه
+1746,1746,AR1874,n,pr,no,العثة,inclusive,العثه,عثه
+1747,1747,AR623,n,dmc,yes,الأفاق,conservative,الافاق,افق
+1748,1748,AR274,n,dmc,yes,غليظ,conservative,غليظ,غلظ
+1749,1749,AR1268,n,dmc,yes,إثم,conservative,اثم,اثم
+1750,1750,AR2062,n,an,no,ميكروبات,inclusive,ميكروبات,ميكروب
+1751,1751,AR1545,n,pr,no,بغاء,inclusive,بغاء,بغء
+1752,1752,AR2225,n,re,no,الإرهابي,inclusive,الارهابي,رهب
+1753,1753,AR259,n,qas,no,خصيتان,inclusive,خصيتان,خصي
+1754,1754,AR357,n,qas,no,الزيف,conservative,الزيف,زيف
+1755,1755,AR195,n,or,no,غبي,conservative,غبي,غبي
+1756,1756,AR771,n,an,no,الماعز,inclusive,الماعز,اعز
+1757,1757,AR1093,n,re,no,الأنشطة الإجرامية,inclusive,الانشطه الاجراميه,شطه جرم
+1758,1758,AR512,n,dmc,yes,خبث,conservative,خبث,خبث
+1759,1759,AR398,a,ddp,yes,غبي,conservative,غبي,غبي
+1760,1760,AR1326,n,ps,yes,فاشي,inclusive,فاشي,فشي
+1761,1761,AR587,n,qas,no,برجوازيه,inclusive,برجوازيه,برجوازيه
+1762,1762,AR2073,n,an,no,بكتيريا,inclusive,بكتيريا,كتر
+1763,1763,AR1340,n,dmc,yes,تفوح منه رائحة عفنة,conservative,تفوح راءحه عفنه,تفح رءح عفن
+1764,1764,AR1547,n,pr,no,بائعة هوى,inclusive,باءعه هوي,بءع هوي
+1765,1765,AR2156,n,cds,no,النرجسية,inclusive,النرجسيه,رجس
+1766,1766,AR518,n,an,no,أبقار,inclusive,ابقار,بقر
+1767,1767,AR253,n,asm,no,الخصيتين,inclusive,الخصيتين,خصي
+1768,1768,AR1535,n,pr,no,شرموطة,inclusive,شرموطه,شرموط
+1769,1769,AR268,n,cds,no,قاطع طريق,inclusive,قاطع طريق,قطع طرق
+1770,1770,AR2244,n,re,no,القاتل,inclusive,القاتل,قتل
+1771,1771,AR2094,n,an,no,غنم,inclusive,غنم,غنم
+1772,1772,AR1738,n,svp,no,الفسوق,inclusive,الفسوق,فسق
+1773,1773,AR622,n,dmc,yes,المتشرد,conservative,المتشرد,تشرد
+1774,1774,AR2117,n,ddp,yes,غباوة,conservative,غباوه,غبو
+1775,1775,AR1392,n,cds,no,الأصولية,inclusive,الاصوليه,اصل
+1776,1776,AR1868,n,an,no,ناموسة,inclusive,ناموسه,نمس
+1777,1777,AR2553,v,re,no,إختلس,inclusive,اختلس,خلس
+1778,1778,AR1341,n,dmc,yes,نتانة,conservative,نتانه,نتن
+1779,1779,AR1272,n,cds,no,الفاسق,conservative,الفاسق,فسق
+1780,1780,AR272,n,qas,no,برابرة,conservative,برابره,ربر
+1781,1781,AR1612,n,cds,no,جمهور,conservative,جمهور,جمهور
+1782,1782,AR624,n,dmc,yes,متشرد,conservative,متشرد,تشرد
+1783,1783,AR1997,n,an,no,خِنّوْص,inclusive,خنوص,خنص
+1784,1784,AR2371,v,qas,no,رقع,inclusive,رقع,رقع
+1785,1785,AR2659,a,svp,no,فخور,conservative,فخور,فخر
+1786,1786,AR634,n,cds,no,الشرير,conservative,الشرير,شرر
+1787,1787,AR2477,a,ddf,yes,أعرج,inclusive,اعرج,عرج
+1788,1788,AR494,n,ddp,yes,ثرثار,inclusive,ثرثار,ثرثار
+1789,1789,AR277,n,rci,yes,متوحش,conservative,متوحش,توحش
+1790,1790,AR275,n,ddp,yes,البرابرة,conservative,البرابره,ربر
+1791,1791,AR1464,n,cds,no,المشاهد,conservative,المشاهد,شهد
+1792,1792,AR359,n,dmc,yes,كذب,inclusive,كذب,كذب
+1793,1793,AR616,n,dmc,yes,شخص ردئ,inclusive,شخص ردء,شخص ردء
+1794,1794,AR994,n,ps,yes,تهجين,inclusive,تهجين,تهج
+1795,1795,AR202,n,or,no,المغفل,conservative,المغفل,غفل
+1796,1796,AR1789,n,asm,no,قضيب,inclusive,قضيب,قضب
+1797,1797,AR2107,n,ddp,yes,بليده,conservative,بليده,بلد
+1798,1798,AR637,n,is,yes,الوغد,conservative,الوغد,وغد
+1799,1799,AR630,n,cds,no,غوغاء,conservative,غوغاء,غوغاء
+1800,1800,AR1666,n,ddf,yes,معاقين,inclusive,معاقين,عاق
+1801,1801,AR2237,n,re,no,قتل,inclusive,قتل,قتل
+1802,1802,AR157,n,ddp,yes,دابة,inclusive,دابه,دبه
+1803,1803,AR1971,n,an,no,ببغاء,inclusive,بغاء,بغء
+1804,1804,AR1673,n,ddf,yes,تعطيل,inclusive,تعطيل,عطل
+1805,1805,AR271,n,re,no,لصوصية,inclusive,لصوصيه,لصص
+1806,1806,AR1421,n,cds,no,النظام الفاشي,conservative,النظام الفاشي,نظم فشي
+1807,1807,AR121,n,dmc,yes,التعصب,conservative,التعصب,عصب
+1808,1808,AR1069,n,ddp,yes,ساذج,conservative,ساذج,سذج
+1809,1809,AR1225,n,re,no,الجنايات,inclusive,الجنايات,جني
+1810,1810,AR257,n,qas,no,الخصوه,inclusive,الخصوه,خصه
+1811,1811,AR1085,n,re,no,جرائم,inclusive,جراءم,جرءم
+1812,1812,AR1739,n,svp,no,غريزة جنسية,inclusive,غريزه جنسيه,غرز جنس
+1813,1813,AR604,n,cds,no,تفاخر,conservative,تفاخر,فخر
+1814,1814,AR1699,n,ddp,yes,جهل,inclusive,جهل,جهل
+1815,1815,AR1737,n,dmc,yes,النصاب,conservative,النصاب,نصب
+1816,1816,AR3,v,an,no,نبح,inclusive,نبح,نبح
+1817,1817,AR1130,n,dmc,yes,مرائي,conservative,مراءي,رءي
+1818,1818,AR1793,n,svp,no,حسد,inclusive,حسد,حسد
+1819,1819,AR2108,n,ddp,yes,غبيين,conservative,غبين,غبن
+1820,1820,AR121,n,cds,no,التعصب,inclusive,التعصب,عصب
+1821,1821,AR1862,n,an,no,البعوضة,inclusive,البعوضه,بعض
+1822,1822,AR68,a,an,no,العنيد,inclusive,العنيد,عند
+1823,1823,AR2106,n,asm,no,الغباوه,conservative,الغباوه,غبو
+1824,1824,AR1609,n,cds,no,الجماهير,conservative,الجماهير,جماهير
+1825,1825,AR987,n,an,no,التمساح,inclusive,التمساح,ساح
+1826,1826,AR957,n,an,no,البومة,inclusive,البومه,بوم
+1827,1827,AR2169,n,ps,yes,زنجي,inclusive,زنجي,زنج
+1828,1828,AR495,n,cds,no,المتفاخر,conservative,المتفاخر,فاخر
+1829,1829,AR125,n,ddp,yes,أمي,inclusive,امي,امي
+1830,1830,AR2163,n,cds,no,عبادة الذات,inclusive,عباده الذات,عبد ذات
+1831,1831,AR1544,n,pr,no,الدعارة,inclusive,الدعاره,دعر
+1832,1832,AR2387,n,is,yes,شخص رث الملابس,conservative,شخص رث الملابس,شخص رث لبس
+1833,1833,AR917,n,cds,no,نصاب,conservative,نصاب,نصب
+1834,1834,AR2612,n,ddp,yes,حماقه,inclusive,حماقه,حمق
+1835,1835,AR911,n,cds,no,الجبن,conservative,الجبن,جبن
+1836,1836,AR1405,n,an,no,غَضَب,inclusive,غضب,غضب
+1837,1837,AR1135,n,om,no,قفا,inclusive,قفا,قفا
+1838,1838,AR2110,n,asm,no,بلادة,conservative,بلاده,بلد
+1839,1839,AR15,n,svp,no,خمول,conservative,خمول,خمل
+1840,1840,AR2631,n,an,no,ثعبان في العشب,conservative,ثعبان العشب,ثعب عشب
+1841,1841,AR704,n,re,no,تشهير,inclusive,تشهير,شهر
+1842,1842,AR2422,n,re,no,القراصنة,inclusive,القراصنه,قرص
+1843,1843,AR592,n,cds,no,مغرور,conservative,مغرور,غرر
+1844,1844,AR697,n,cds,no,غبية,inclusive,غبيه,غبه
+1845,1845,AR1466,n,qas,no,المتلصص,inclusive,المتلص,تلص
+1846,1846,AR1586,n,ps,yes,يهوديه,inclusive,يهوديه,يهد
+1847,1847,AR691,n,ps,yes,أبله,conservative,ابله,ابل
+1848,1848,AR1851,n,ps,yes,منغول,inclusive,منغول,نغل
+1849,1849,AR1860,n,an,no,البعوض,inclusive,البعوض,بعض
+1850,1850,AR1327,n,cds,no,فاشستي,conservative,فاشستي,فشس
+1851,1851,AR1749,n,dmc,yes,الكذب,inclusive,الكذب,كذب
+1852,1852,AR277,n,dmc,yes,متوحش,conservative,متوحش,توحش
+1853,1853,AR926,n,cds,no,الخردة,conservative,الخرده,خرد
+1854,1854,AR1477,n,svp,no,تافه,conservative,تافه,تفه
+1855,1855,AR1655,n,asf,no,فتاة,conservative,فتاه,فته
+1856,1856,AR1275,n,dmc,yes,فجور,inclusive,فجور,فجر
+1857,1857,AR1000,n,cds,no,هجين,inclusive,هجين,هجن
+1858,1858,AR237,n,svp,no,بخيلة,conservative,بخيله,بخل
+1859,1859,AR1736,n,dmc,yes,زائف,conservative,زاءف,زءف
+1860,1860,AR2412,a,svp,no,عدوانية,inclusive,عدوانيه,عدو
+1861,1861,AR1726,n,dmc,yes,فسوق,inclusive,فسوق,فسق
+1862,1862,AR2028,n,qas,no,بلاغة,inclusive,بلاغه,بلغ
+1863,1863,AR1097,n,an,no,القرف,conservative,القرف,قرف
+1864,1864,AR2232,n,an,no,قراده,inclusive,قراده,قرد
+1865,1865,AR344,n,pr,no,عاهرة,inclusive,عاهره,عهر
+1866,1866,AR21,n,re,no,قهر,inclusive,قهر,قهر
+1867,1867,AR2480,n,pr,no,كلام يعوزه الصدق,conservative,كلام يعوزه الصدق,كلم يعز صدق
+1868,1868,AR1407,n,svp,no,غيظ,conservative,غيظ,غيظ
+1869,1869,AR1707,n,cds,no,التفاخر,inclusive,التفاخر,فخر
+1870,1870,AR2518,a,dmc,yes,وسخ,inclusive,وسخ,وسخ
+1871,1871,AR693,n,ddp,yes,عته,inclusive,عته,عته
+1872,1872,AR596,n,cds,no,وقاحة,conservative,وقاحه,وقح
+1873,1873,AR387,n,pr,no,الأبقار,inclusive,الابقار,بقر
+1874,1874,AR1079,n,ps,yes,الجاهل,conservative,الجاهل,جهل
+1875,1875,AR403,n,dmc,yes,المتعصب,conservative,المتعصب,تعصب
+1876,1876,AR2575,n,an,no,صراصير,inclusive,صراصير,صراصير
+1877,1877,AR7,n,an,no,بول,inclusive,بول,بول
+1878,1878,AR8,n,an,no,بعير,inclusive,بعير,بعر
+1879,1879,AR17,n,an,no,مجوس,inclusive,مجوس,جوس
+1880,1880,AR18,n,an,no,مشرد,inclusive,مشرد,شرد
+1881,1881,AR20,n,an,no,مرتزق,inclusive,مرتزق,رزق
+1882,1882,AR24,n,an,no,خرف,inclusive,خرف,خرف
+1883,1883,AR25,n,an,no,بهائم,inclusive,بهاءم,هءم
+1884,1884,AR29,n,an,no,ذنب,inclusive,ذنب,ذنب
+1885,1885,AR31,n,an,no,اذناب,inclusive,اذناب,ذنب
+1886,1886,AR33,n,an,no,خدم,inclusive,خدم,خدم
+1887,1887,AR34,v,an,no,تتسخ,inclusive,تسخ,تسخ
+1888,1888,AR37,n,an,no,عبيد,inclusive,عبيد,عبد
+1889,1889,AR38,n,an,no,قاذورات,inclusive,قاذورات,قذر
+1890,1890,AR39,n,an,no,رافضية,inclusive,رافضيه,رفض
+1891,1891,AR40,n,an,no,روافض,inclusive,روافض,رفض
+1892,1892,AR41,n,an,no,حمير,inclusive,حمير,حمر
+1893,1893,AR43,v,an,no,رفع عنك القلم,inclusive,رفع عنك القلم,رفع عنك قلم
+1894,1894,AR44,n,an,no,بايرة,inclusive,بايره,بير
+1895,1895,AR45,n,an,no,خونه,inclusive,خونه,خون
+1896,1896,AR47,n,an,no,ذميم,inclusive,ذميم,ذمم
+1897,1897,AR48,n,an,no,مطرود,inclusive,مطرود,طرد
+1898,1898,AR49,v,an,no,لعن,inclusive,لعن,لعن
+1899,1899,AR51,n,an,no,نجس,inclusive,نجس,نجس
+1900,1900,AR54,n,an,no,سيئ,inclusive,سيء,سيء
+1901,1901,AR55,n,an,no,خرا,inclusive,خرا,خرا
+1902,1902,AR56,n,an,no,خره,inclusive,خره,خره
+1903,1903,AR57,n,an,no,خيانة,inclusive,خيانه,خين
+1904,1904,AR58,v,an,no,تف علي,inclusive,تف,تف
+1905,1905,AR59,v,an,no,تبا ل,inclusive,تبا,تبا
+1906,1906,AR59,v,an,no,يطعمك الحج,inclusive,يطعمك الحج,طعم لحج
