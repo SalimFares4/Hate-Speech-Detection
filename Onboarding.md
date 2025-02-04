@@ -48,3 +48,17 @@ In Supervision agreement, section Work Plan, these are the conferences to be add
 - International Conference on Software Engineering (ICSE).
 - The ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE).
 - International Conference on Automated Software Engineering (ASE).
+
+## Join the Gang
+
+Ask Steffen to add your accounts to the following repositories/organizations:
+   - Github
+   - GitLab
+   - Lrz
+   - Mattermost
+   - HuggingFace
+   - Outlook Kalender
+
+Steffen might need your ZIM-Username, FIM-Username and E-Mail to do that, so keep them ready.
+If you don't already have an account on one of the previous platforms, create one.
+
