@@ -25,4 +25,17 @@ Make sure to look at the website page in German, because some information might 
     94032 Passau
    ```
 
-3. 
+3. Wait on the conformation of your application (Normally per E-Mail from the dean's office).
+### If you want to apply for a student status.
+4. Start an application on [Campus Portal](https://campus.uni-passau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces) under:
+   ```
+   Main Menue-> Studies offered -> Application -> Add Application
+   |------------------------------------------------|
+   |        Degree       |         Doctorate        |
+   |    Form of Study    |      Doctoral Study      |
+   |       Subject       |        Informatik        |
+   |       Semester      |   1st regular semester   | (depends on your situation)
+   |   Doctoral thesis   |        Monograph         |
+   Doctoral study at a single doctorate-awarding higher education institution or in cooperation with another German university (Universität; not Fachhochschule etc.) 
+   
+   ```
