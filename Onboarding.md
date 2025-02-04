@@ -1,9 +1,9 @@
 # Onboarding
 
-All required information could be found on [Doctoral study](https://www.fim.uni-passau.de/en/faculty/doctoral-study).
-Make sure to look at the website page in German, because some information might change (the name of the chairperson of the board of examiners for doctoral awards, currently for computer science: Prof. Dr. Michael Granitzer).
+All required information could be found on [Doctoral study](https://www.fim.uni-passau.de/en/faculty/doctoral-study).<br />
+**Make sure to look at the website page in German, because some information might change (the name of the chairperson of the board of examiners for doctoral awards, currently for computer science: Prof. Dr. Michael Granitzer).**
 
-## Steps.
+## To-do-list
 
 1. Collect the following documents:
    - [Supervision agreement](https://www.fim.uni-passau.de/fileadmin/dokumente/beschaeftigte/kommunikation_marketing/Webbilder/Zielgruppen/Nachwuchswissenschaftler/Supervision_Agreeement_20.12.2017.pdf)
@@ -26,6 +26,35 @@ Make sure to look at the website page in German, because some information might 
    ```
 
 3. Wait on the conformation of your application (Normally per E-Mail from the dean's office).
+
+
+## Join the Gang
+
+Ask Steffen to add your accounts to the following repositories/organizations:
+ - Personal accounts:
+   - [Github](https://github.com/)
+   - [HuggingFace](https://huggingface.co/)
+
+ - Uni-Accounts:
+   - [FIMGit](https://git.fim.uni-passau.de/) (FIM-User)
+   - [Mattermost](https://mattermost.fim.uni-passau.de) (FIM-User)
+   - [Lrz](https://syncandshare.lrz.de/login) (ZIM-User)
+   - [Outlook Kalender](https://email.uni-passau.de) (ZIM-User)
+
+Steffen might need your ZIM-Username, FIM-Username and E-Mail to do that, so keep them ready. <br />
+If you don't already have an account on one of the previous platforms, create one.
+
+## Useful Links:
+
+ - [StudIP](https://studip.uni-passau.de/studip/index.php) (ZIM-User)
+ - [Campus Portal](https://campus.uni-passau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces) (ZIM-User)
+
+## Optional
+
+Create an account at the workstations in *AI LAB*
+
+
+# Optional
 ### If you want to apply for a student status.
 4. Start an application on [Campus Portal](https://campus.uni-passau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces) under:
    ```
@@ -39,6 +68,8 @@ Make sure to look at the website page in German, because some information might 
    Doctoral study at a single doctorate-awarding higher education institution or in cooperation with another German university (Universität; not Fachhochschule etc.) 
    
    ```
+5. Upload the required documents on the portal:
+ 
 
 ## Helpful Information:
 
@@ -49,16 +80,5 @@ In Supervision agreement, section Work Plan, these are the conferences to be add
 - The ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE).
 - International Conference on Automated Software Engineering (ASE).
 
-## Join the Gang
 
-Ask Steffen to add your accounts to the following repositories/organizations:
-   - Github
-   - GitLab
-   - Lrz
-   - Mattermost
-   - HuggingFace
-   - Outlook Kalender
-
-Steffen might need your ZIM-Username, FIM-Username and E-Mail to do that, so keep them ready.
-If you don't already have an account on one of the previous platforms, create one.
 
