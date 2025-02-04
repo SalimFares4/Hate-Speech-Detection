@@ -6,23 +6,23 @@ Make sure to look at the website page in German, because some information might 
 ## Steps.
 
 1. Collect the following documents:
-  - [Supervision agreement](https://www.fim.uni-passau.de/fileadmin/dokumente/beschaeftigte/kommunikation_marketing/Webbilder/Zielgruppen/Nachwuchswissenschaftler/Supervision_Agreeement_20.12.2017.pdf)
+   - [Supervision agreement](https://www.fim.uni-passau.de/fileadmin/dokumente/beschaeftigte/kommunikation_marketing/Webbilder/Zielgruppen/Nachwuchswissenschaftler/Supervision_Agreeement_20.12.2017.pdf)
 
-  - An application for admission or the necessary declaration (available from the Dean's Office: dekanat@fim.uni-passau.de on request).
+   - An application for admission or the necessary declaration (available from the Dean's Office: dekanat@fim.uni-passau.de on request).
 
-  - Certified copie of your Master certificate.
+   - Certified copie of your Master certificate.
 
-  - CV
+   - CV
 
-2. Once these documents are collected, send them by post to:
-  ```
-  An den 
-  Vorsitzenden des  
-  Promotionsausschusses
-  der Fakultät für Informatik und Mathematik
-  der Universität Passau
-  Innstraße 33
-  94032 Passau
-  ```
+3. Once these documents are collected, send them by post to:
+   ```
+    An den 
+    Vorsitzenden des  
+    Promotionsausschusses
+    der Fakultät für Informatik und Mathematik
+    der Universität Passau
+    Innstraße 33
+    94032 Passau
+   ```
 
 3. 
