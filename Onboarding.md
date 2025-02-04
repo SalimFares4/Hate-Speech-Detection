@@ -39,3 +39,12 @@ Make sure to look at the website page in German, because some information might 
    Doctoral study at a single doctorate-awarding higher education institution or in cooperation with another German university (Universität; not Fachhochschule etc.) 
    
    ```
+
+## Helpful Information:
+
+In Supervision agreement, section Work Plan, these are the conferences to be added (Let Prf. Dr. Steffen Herbold check this for you):
+
+- ACM Transaction on Software Engineering and Methodology (TOSEM).
+- International Conference on Software Engineering (ICSE).
+- The ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE).
+- International Conference on Automated Software Engineering (ASE).
