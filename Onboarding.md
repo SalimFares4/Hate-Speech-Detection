@@ -13,7 +13,7 @@ Make sure to look at the website page in German, because some information might 
 - CV
 
 Once these documents are collected, send them by post to:
-´´´
+```
 An den 
 Vorsitzenden des  
 Promotionsausschusses
@@ -21,6 +21,4 @@ der Fakultät für Informatik und Mathematik
 der Universität Passau
 Innstraße 33
 94032 Passau
-´´´
-```
 ```
